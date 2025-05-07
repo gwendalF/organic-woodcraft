@@ -40,14 +40,27 @@ import Separator from "../components/Separator.astro";
   />
   <div
     class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center gap-2 w-fit mx-auto">
-    <Image src={photo1} alt="table en bois" width={200} height={200} />
-    <Image src={photo2} alt="table en bois" width={200} height={200} />
     <Image
-      src={photo3}
+      src={photo1}
       alt="table en bois"
       width={200}
       height={200}
+      loading="eager"
+    />
+    <Image
+      src={photo2}
+      alt="planches de bois"
+      width={200}
+      height={200}
+      loading="eager"
+    />
+    <Image
+      src={photo3}
+      alt="planches de bois"
+      width={200}
+      height={200}
       class="md:col-span-2 lg:col-span-1"
+      loading="eager"
     />
   </div>
 </BaseLayout>
