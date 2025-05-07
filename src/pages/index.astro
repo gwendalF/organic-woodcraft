@@ -1,25 +1,53 @@
 ---
-import '../styles/global.css';
-// Component Imports
-import Button from '../components/Button.astro';
+import "../styles/global.css";
 
-// Full Astro Component Syntax:
-// https://docs.astro.build/basics/astro-components/
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { Image } from "astro:assets";
+import background from "../components/background.png";
+import photo1 from "../components/photo1.png";
+import photo2 from "../components/photo2.png";
+import photo3 from "../components/photo3.png";
+
+import Separator from "../components/Separator.astro";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro + TailwindCSS</title>
-	</head>
-
-	<body>
-		<div class="grid place-items-center h-screen content-center">
-			<Button>Tailwind Button in Astro!</Button>
-			<a href="/markdown-page" class="p-4 underline">Markdown is also supported...</a>
-		</div>
-	</body>
-</html>
+<BaseLayout>
+  <Image
+    src={background}
+    alt="Planche de bois en gros plan"
+    class="w-full h-96 object-cover rounded-lg shadow-lg mb-4"
+    loading="eager"
+  />
+  <h1 class="text-center text-2xl text-yellow-500">
+    ORGANIC WOODCRAFT, c'est quoi?
+  </h1>
+  <p class="px-4 text-xl pt-2 text-white">
+    Organic Woodcraft, c'esrt l'accomplissement d'un projet-passion en relation
+    avec le bois: un matériau noble et élégant qui fascine par sa polyvalence
+    sans commune mesure. De tous les domaines où il est la pièce maîtresse, la
+    création est ce que j'affectionne le plus, d'ailleurs les ouvages que je
+    réalise seront régulièrement ajoutés au <a
+      href="/showroom"
+      class="text-yellow-500 font-bold">Showroom</a
+    >. Le bois est issu d'un circuit court et séché par les années qui
+    s'écoulent entre l'instant où il est prélevé et celui de la réalisation.
+    Organic Woodcraft, c'est un artisan fabricant qui vend en ligne ses
+    créations afin de faire connaître son univers et de partager son amour du
+    bois avec le plus grand nombre.
+  </p>
+  <Separator
+    class="h-8 my-2 transition-transform duration-300 ease-in-out hover:scale-75"
+  />
+  <div
+    class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center gap-2 w-fit mx-auto">
+    <Image src={photo1} alt="table en bois" width={200} height={200} />
+    <Image src={photo2} alt="table en bois" width={200} height={200} />
+    <Image
+      src={photo3}
+      alt="table en bois"
+      width={200}
+      height={200}
+      class="md:col-span-2 lg:col-span-1"
+    />
+  </div>
+</BaseLayout>
