@@ -323,5 +323,45 @@
     "categories": [
       "planches"
     ]
+  },
+  {
+    "src": "/showroom/creation-drive-001.jpg",
+    "thumb": "/showroom/creation-drive-001.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création terminée",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/encours-drive-001.jpg",
+    "thumb": "/showroom/encours-drive-001.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/atelier-drive-001.jpg",
+    "thumb": "/showroom/atelier-drive-001.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "À l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/exterieur-drive-001.jpg",
+    "thumb": "/showroom/exterieur-drive-001.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail en extérieur",
+    "categories": [
+      "exterieur"
+    ]
   }
 ]
