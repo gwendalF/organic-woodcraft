@@ -483,5 +483,35 @@
     "categories": [
       "atelier"
     ]
+  },
+  {
+    "src": "/showroom/creation-drive-008.jpg",
+    "thumb": "/showroom/creation-drive-008.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création terminée",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/creation-drive-009.jpg",
+    "thumb": "/showroom/creation-drive-009.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création terminée",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/creation-drive-010.jpg",
+    "thumb": "/showroom/creation-drive-010.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création terminée",
+    "categories": [
+      "terminees"
+    ]
   }
 ]
