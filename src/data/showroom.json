@@ -263,5 +263,15 @@
     "categories": [
       "atelier"
     ]
+  },
+  {
+    "src": "/showroom/planche-drive-001.jpg",
+    "thumb": "/showroom/planche-drive-001.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Planches — sélection de l’atelier",
+    "categories": [
+      "planches"
+    ]
   }
 ]
