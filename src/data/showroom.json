@@ -443,5 +443,45 @@
     "categories": [
       "atelier"
     ]
+  },
+  {
+    "src": "/showroom/creation-drive-006.jpg",
+    "thumb": "/showroom/creation-drive-006.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création terminée",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/creation-drive-007.jpg",
+    "thumb": "/showroom/creation-drive-007.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création terminée",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/encours-drive-004.jpg",
+    "thumb": "/showroom/encours-drive-004.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/atelier-drive-004.jpg",
+    "thumb": "/showroom/atelier-drive-004.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "À l’atelier",
+    "categories": [
+      "atelier"
+    ]
   }
 ]
