@@ -363,5 +363,45 @@
     "categories": [
       "exterieur"
     ]
+  },
+  {
+    "src": "/showroom/creation-drive-002.jpg",
+    "thumb": "/showroom/creation-drive-002.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création terminée",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/creation-drive-003.jpg",
+    "thumb": "/showroom/creation-drive-003.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création terminée",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/encours-drive-002.jpg",
+    "thumb": "/showroom/encours-drive-002.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/atelier-drive-002.jpg",
+    "thumb": "/showroom/atelier-drive-002.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "À l’atelier",
+    "categories": [
+      "atelier"
+    ]
   }
 ]
