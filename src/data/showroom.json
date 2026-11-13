@@ -643,5 +643,15 @@
     "categories": [
       "atelier"
     ]
+  },
+  {
+    "src": "/showroom/exterieur-drive-002.jpg",
+    "thumb": "/showroom/exterieur-drive-002.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Travaux extérieurs et bois brut",
+    "categories": [
+      "exterieur"
+    ]
   }
 ]
