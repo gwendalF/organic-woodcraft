@@ -583,5 +583,15 @@
     "categories": [
       "terminees"
     ]
+  },
+  {
+    "src": "/showroom/encours-drive-005.jpg",
+    "thumb": "/showroom/encours-drive-005.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création en cours",
+    "categories": [
+      "en-cours"
+    ]
   }
 ]
