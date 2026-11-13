@@ -48,7 +48,8 @@
       "sur-mesure"
     ],
     "wood": "Châtaignier",
-    "finish": "Brut"
+    "finish": "Brut",
+    "projectId": "banc-chataignier-001"
   },
   {
     "src": "/showroom/bois-c21b5b309e60.webp",
@@ -92,7 +93,9 @@
       "range": "Vernis Satin Meubles & Boiseries",
       "shade": "Châtaignier",
       "technology": "Céramique"
-    }
+    },
+    "projectId": "lamelle-colle-chataignier-001",
+    "projectTitle": "Lamellés-collés en châtaignier"
   },
   {
     "src": "/showroom/bois-7a2962d016ce.webp",
@@ -118,7 +121,8 @@
       "planches"
     ],
     "wood": "Merisier",
-    "finish": "Brut"
+    "finish": "Brut",
+    "projectId": "billot-merisier-001"
   },
   {
     "src": "/showroom/bois-7f5f252cc5e8.webp",
@@ -131,7 +135,8 @@
       "sur-mesure"
     ],
     "wood": "Merisier",
-    "finish": "Brut"
+    "finish": "Brut",
+    "projectId": "plateau-table-basse-merisier-001"
   },
   {
     "src": "/showroom/bois-b2586d9a8da9.webp",
@@ -164,66 +169,82 @@
     "thumb": "/showroom/thumbs/bois-c876356f35b5.webp",
     "width": 1200,
     "height": 900,
-    "title": "Détail d’un panneau assemblé",
+    "title": "Billot de découpe en merisier brut",
     "categories": [
       "terminees",
-      "sur-mesure"
-    ]
+      "planches"
+    ],
+    "projectId": "billot-merisier-001",
+    "wood": "Merisier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-75f646153b04.webp",
     "thumb": "/showroom/thumbs/bois-75f646153b04.webp",
     "width": 1200,
     "height": 900,
-    "title": "Table aux bords naturels",
+    "title": "Banc en châtaignier brut",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "projectId": "banc-chataignier-001",
+    "wood": "Châtaignier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-3bbadb0d9c4e.webp",
     "thumb": "/showroom/thumbs/bois-3bbadb0d9c4e.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateau aux bords naturels",
+    "title": "Plateau de table basse en merisier brut",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "projectId": "plateau-table-basse-merisier-001",
+    "wood": "Merisier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-3b66452c9b8f.webp",
     "thumb": "/showroom/thumbs/bois-3b66452c9b8f.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateau en bois massif",
+    "title": "Lamellé-collé en châtaignier — autre vue",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "projectId": "lamelle-colle-chataignier-001",
+    "projectTitle": "Lamellés-collés en châtaignier"
   },
   {
     "src": "/showroom/bois-942d4070534b.webp",
     "thumb": "/showroom/thumbs/bois-942d4070534b.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateau fini",
+    "title": "Lamellé-collé en châtaignier — autre vue",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "projectId": "lamelle-colle-chataignier-001",
+    "projectTitle": "Lamellés-collés en châtaignier"
   },
   {
     "src": "/showroom/bois-357c9de1f996.webp",
     "thumb": "/showroom/thumbs/bois-357c9de1f996.webp",
     "width": 900,
     "height": 1200,
-    "title": "Panneaux en bois massif",
+    "title": "Plateau de service en hêtre échauffé",
     "categories": [
       "terminees",
-      "sur-mesure"
-    ]
+      "planches"
+    ],
+    "wood": "Hêtre échauffé"
   },
   {
     "src": "/showroom/bois-897eb9697f41.webp",
