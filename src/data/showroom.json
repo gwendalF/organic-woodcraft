@@ -35,7 +35,8 @@
       "terminees"
     ],
     "wood": "Châtaignier",
-    "finish": "Brut"
+    "finish": "Brut",
+    "projectId": "support-lecture-chataignier-001"
   },
   {
     "src": "/showroom/bois-4b44bba3be94.webp",
@@ -322,7 +323,8 @@
       "terminees"
     ],
     "wood": "Châtaignier",
-    "finish": "Brut"
+    "finish": "Brut",
+    "projectId": "support-lecture-chataignier-001"
   },
   {
     "src": "/showroom/bois-30b2cb16dbed.webp",
@@ -363,71 +365,93 @@
       "sur-mesure"
     ],
     "wood": "Acajou africain",
-    "finish": "Vernis incolore mat"
+    "finish": "Vernis incolore mat",
+    "projectId": "table-basse-acajou-africain-001"
   },
   {
     "src": "/showroom/bois-24173ca2a932.webp",
     "thumb": "/showroom/thumbs/bois-24173ca2a932.webp",
     "width": 597,
     "height": 1200,
-    "title": "Table basse à l’atelier",
+    "title": "Table basse en acajou africain — vernis incolore mat",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Acajou africain",
+    "finish": "Vernis incolore mat",
+    "projectId": "table-basse-acajou-africain-001"
   },
   {
     "src": "/showroom/bois-560bab53b7d8.webp",
     "thumb": "/showroom/thumbs/bois-560bab53b7d8.webp",
     "width": 597,
     "height": 1200,
-    "title": "Plateaux en bois massif",
+    "title": "Plateau de table en chêne d’Amérique — vernis incolore",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Chêne d’Amérique",
+    "finish": "Vernis incolore"
   },
   {
     "src": "/showroom/bois-73b4dc62bb65.webp",
     "thumb": "/showroom/thumbs/bois-73b4dc62bb65.webp",
     "width": 597,
     "height": 1200,
-    "title": "Petites pièces en bois",
+    "title": "Plateau massif en acajou africain — vernis incolore mat",
     "categories": [
-      "terminees"
-    ]
+      "terminees",
+      "sur-mesure"
+    ],
+    "wood": "Acajou africain",
+    "finish": "Vernis incolore mat",
+    "projectId": "table-basse-acajou-africain-001"
   },
   {
     "src": "/showroom/bois-fc72afe433bd.webp",
     "thumb": "/showroom/thumbs/bois-fc72afe433bd.webp",
     "width": 191,
     "height": 384,
-    "title": "Support de lecture à l’atelier",
+    "title": "Support de lecture en châtaignier brut",
     "categories": [
       "terminees"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Brut",
+    "projectId": "support-lecture-chataignier-001"
   },
   {
     "src": "/showroom/bois-04a6b720a0d4.webp",
     "thumb": "/showroom/thumbs/bois-04a6b720a0d4.webp",
     "width": 1200,
     "height": 597,
-    "title": "Banc en bois massif",
+    "title": "Meuble TV — plateau en chêne de pays, structure et traverses intermédiaires en châtaignier — huile de pépins de raisin",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Chêne de pays et châtaignier",
+    "finish": "Huile de pépins de raisin",
+    "materials": {
+      "top": "Chêne de pays",
+      "structure": "Châtaignier",
+      "intermediateRails": "Châtaignier"
+    }
   },
   {
     "src": "/showroom/bois-05b334d48b26.webp",
     "thumb": "/showroom/thumbs/bois-05b334d48b26.webp",
     "width": 1200,
     "height": 597,
-    "title": "Banc aux bords naturels",
+    "title": "Repose-plante en châtaignier — huile de pépins de raisin",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Huile de pépins de raisin"
   },
   {
     "src": "/showroom/bois-4f0ca695de6b.webp",
