@@ -4,7 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import photos from '../data/showroom.json';
 const categories = [ ['tout','Tout découvrir'], ['terminees','Réalisations terminées'], ['en-cours','Créations en cours'], ['exterieur','Extérieur, abattage et grumes'], ['atelier','L’atelier'], ['planches','Planches'], ['essences','Essences de bois'], ['sur-mesure','Réalisations sur mesure'] ];
 ---
-<BaseLayout>
+<BaseLayout title="Le showroom — Organic Woodcraft" description="Découvrez les réalisations Organic Woodcraft : mobilier, planches, créations en cours et vie de l’atelier, de la forêt au meuble.">
 <section class="showroom">
   <div class="intro"><p class="eyebrow">DE LA FORÊT AU MEUBLE</p><h1>Le showroom</h1><p>Le bois, le geste et les créations. Entrez dans l’univers d’Organic Woodcraft, de la grume aux dernières finitions.</p></div>
   <nav class="filters" aria-label="Rubriques du showroom">{categories.map(([id,label]) => <button type="button" data-filter={id} aria-pressed={id==='tout'}>{label}</button>)}</nav>

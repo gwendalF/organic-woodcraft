@@ -1,9 +1,11 @@
 ---
 type Props = {
   mainClass?: string;
+  title?: string;
+  description?: string;
 };
 
-const { mainClass = "" }: Props = Astro.props;
+const { mainClass = "", title = "Organic Woodcraft — Créations & sur-mesure", description = "Créations en bois massif et mobilier sur mesure à Saint-Jacut-les-Pins. De la forêt au meuble, avec un bois séché naturellement." }: Props = Astro.props;
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 ---
@@ -12,7 +14,8 @@ import Footer from "../components/Footer.astro";
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Organic Woodcraft</title>
+    <title>{title}</title>
+    <meta name="description" content={description} />
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="shortcut icon" href="/favicon.ico" />

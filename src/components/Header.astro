@@ -2,44 +2,45 @@
 import { Image } from "astro:assets";
 import logo from "./logo.png";
 ---
-
-<header class="bg-gray-900 text-white p-4 top-0 shadow-md sticky">
-  <div class="flex items-center justify-between max-w-7xl mx-auto">
-    <div class="text-xl font-bold flex items-center space-x-2">
-      <Image
-        src={logo}
-        alt="Logo"
-        class="w-14 h-14"
-        width={56}
-        height={56}
-        loading="eager"
-      />
-      <div>Organic Woodcraft</div>
-    </div>
-
-    <input type="checkbox" id="menu-toggle" class="peer hidden" />
-    <label
-      for="menu-toggle"
-      class="text-3xl cursor-pointer md:hidden peer-checked:text-gray-300"
-    >
-      ☰
-    </label>
-
-    <nav
-      class="absolute top-full left-0 w-full bg-gray-900 flex-col gap-4 px-4 py-4 hidden peer-checked:flex md:static md:flex md:flex-row md:w-auto md:gap-6 md:px-0 md:py-0"
-    >
-      <a href="/furnitures" class="block md:inline hover:text-gray-300"
-        >Mobilier sur mesure</a
-      >
-      <a href="/gifts" class="block md:inline hover:text-gray-300"
-        >Idées cadeau</a
-      >
-      <a href="/woods" class="block md:inline hover:text-gray-300"
-        >Essences de bois</a
-      >
-      <a href="/showroom" class="block md:inline hover:text-gray-300"
-        >Showroom</a
-      >
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="/" aria-label="Organic Woodcraft — accueil">
+      <Image src={logo} alt="" width={56} height={56} loading="eager" />
+      <span>Organic Woodcraft</span>
+    </a>
+    <button class="menu-button" type="button" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="main-navigation"><span aria-hidden="true">☰</span></button>
+    <nav id="main-navigation" aria-label="Navigation principale">
+      <a href="/furnitures">Mobilier sur mesure</a>
+      <a href="/gifts">Idées cadeau</a>
+      <a href="/woods">Essences de bois</a>
+      <a href="/showroom">Showroom</a>
     </nav>
   </div>
 </header>
+<script>
+  const toggle = document.querySelector<HTMLButtonElement>('.menu-button');
+  const navigation = document.querySelector<HTMLElement>('#main-navigation');
+  function closeMenu() {
+    toggle?.setAttribute('aria-expanded', 'false');
+    toggle?.setAttribute('aria-label', 'Ouvrir le menu');
+    navigation?.removeAttribute('data-open');
+  }
+  toggle?.addEventListener('click', () => {
+    const open = toggle.getAttribute('aria-expanded') !== 'true';
+    toggle.setAttribute('aria-expanded', String(open));
+    toggle.setAttribute('aria-label', open ? 'Fermer le menu' : 'Ouvrir le menu');
+    navigation?.setAttribute('data-open', String(open));
+  });
+  navigation?.addEventListener('click', event => {
+    if ((event.target as Element).closest('a')) closeMenu();
+  });
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && toggle?.getAttribute('aria-expanded') === 'true') { closeMenu(); toggle.focus(); }
+  });
+  document.addEventListener('click', event => {
+    if (!(event.target as Element).closest('.site-header')) closeMenu();
+  });
+</script>
+<style>
+  .site-header{position:sticky;top:0;z-index:50;background:#111827;color:#fff;box-shadow:0 3px 12px #0003}.header-inner{position:relative;max-width:1280px;margin:auto;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:16px}.brand{display:flex;align-items:center;gap:8px;font-size:20px;font-weight:700;line-height:1.2;min-width:0;text-decoration:none;color:inherit}.brand img{width:56px;height:56px;flex-shrink:0}.brand span{min-width:0}.menu-button{flex-shrink:0;display:grid;place-items:center;width:44px;height:44px;font-size:28px;border:1px solid #667b70;border-radius:8px;cursor:pointer}nav{display:none;position:absolute;top:100%;left:0;right:0;padding:12px 16px 20px;background:#111827;gap:4px;box-shadow:0 8px 12px #0003}nav[data-open=true]{display:flex;flex-direction:column}nav a{padding:12px 8px;text-decoration:none;color:inherit}nav a:hover{color:#e4c671}.brand:focus-visible,.menu-button:focus-visible,nav a:focus-visible{outline:3px solid #e4c671;outline-offset:4px}@media(min-width:1050px){.menu-button{display:none}nav,nav[data-open=true]{display:flex;position:static;flex-direction:row;align-items:center;gap:16px;padding:0;box-shadow:none}nav a{font-size:14px;padding:12px 4px}}@media(max-width:380px){.brand{font-size:17px}.brand img{width:48px;height:48px}.header-inner{gap:10px;padding:12px}}
+</style>
