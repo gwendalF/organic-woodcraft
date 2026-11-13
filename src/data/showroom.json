@@ -252,12 +252,14 @@
     "thumb": "/showroom/thumbs/bois-897eb9697f41.webp",
     "width": 900,
     "height": 1200,
-    "title": "Table basse en chêne d’Amérique",
+    "title": "Table basse en chêne d’Amérique — vernis incolore",
     "categories": [
       "terminees",
       "sur-mesure"
     ],
-    "wood": "Chêne d’Amérique"
+    "wood": "Chêne d’Amérique",
+    "finish": "Vernis incolore",
+    "projectId": "table-basse-chene-amerique-001"
   },
   {
     "src": "/showroom/bois-9c2eaee26ec4.webp",
@@ -276,12 +278,13 @@
     "thumb": "/showroom/thumbs/bois-cc3e4e6a815a.webp",
     "width": 900,
     "height": 1200,
-    "title": "Planche à découper en hêtre",
+    "title": "Planche à découper en hêtre brut",
     "categories": [
       "terminees",
       "planches"
     ],
-    "wood": "Hêtre"
+    "wood": "Hêtre",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-efb312629726.webp",
@@ -302,7 +305,7 @@
     "thumb": "/showroom/thumbs/bois-79b2a74340b6.webp",
     "width": 900,
     "height": 1200,
-    "title": "Planche à pain en peuplier",
+    "title": "Planche à palets bretons en peuplier",
     "categories": [
       "terminees",
       "planches"
@@ -314,43 +317,53 @@
     "thumb": "/showroom/thumbs/bois-7ff45f73c427.webp",
     "width": 1200,
     "height": 900,
-    "title": "Support de lecture en bois",
+    "title": "Support de lecture en châtaignier brut",
     "categories": [
       "terminees"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-30b2cb16dbed.webp",
     "thumb": "/showroom/thumbs/bois-30b2cb16dbed.webp",
     "width": 900,
     "height": 1200,
-    "title": "Table en bois massif",
+    "title": "Table basse en chêne d’Amérique — vernis incolore",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Chêne d’Amérique",
+    "finish": "Vernis incolore",
+    "projectId": "table-basse-chene-amerique-001"
   },
   {
     "src": "/showroom/bois-2df661c706fe.webp",
     "thumb": "/showroom/thumbs/bois-2df661c706fe.webp",
     "width": 1200,
     "height": 597,
-    "title": "Table basse en bois massif",
+    "title": "Table basse en chêne d’Amérique — vernis incolore",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Chêne d’Amérique",
+    "finish": "Vernis incolore",
+    "projectId": "table-basse-chene-amerique-001"
   },
   {
     "src": "/showroom/bois-62975e84855a.webp",
     "thumb": "/showroom/thumbs/bois-62975e84855a.webp",
     "width": 1200,
     "height": 597,
-    "title": "Table basse — vue d’ensemble",
+    "title": "Table basse en acajou africain — vernis incolore mat",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Acajou africain",
+    "finish": "Vernis incolore mat"
   },
   {
     "src": "/showroom/bois-24173ca2a932.webp",
