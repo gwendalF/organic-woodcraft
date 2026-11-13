@@ -4,64 +4,76 @@
     "thumb": "/showroom/thumbs/bois-ec90c71eb82d.webp",
     "width": 900,
     "height": 1200,
-    "title": "Table aux bords naturels",
+    "title": "Table aux bords naturels en châtaignier brut",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-008903589bc3.webp",
     "thumb": "/showroom/thumbs/bois-008903589bc3.webp",
     "width": 1200,
     "height": 800,
-    "title": "Planche — détail du bois",
+    "title": "Planche à découper en châtaignier brut",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-96f3514aef7c.webp",
     "thumb": "/showroom/thumbs/bois-96f3514aef7c.webp",
     "width": 1200,
     "height": 900,
-    "title": "Support de lecture avec livre",
+    "title": "Support de lecture en châtaignier brut",
     "categories": [
       "terminees"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-4b44bba3be94.webp",
     "thumb": "/showroom/thumbs/bois-4b44bba3be94.webp",
     "width": 1200,
     "height": 900,
-    "title": "Banc en bois massif",
+    "title": "Banc en châtaignier brut",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-c21b5b309e60.webp",
     "thumb": "/showroom/thumbs/bois-c21b5b309e60.webp",
     "width": 597,
     "height": 1200,
-    "title": "Pendentif en bois",
+    "title": "Pendentif en bouleau — huile de pépins de raisin",
     "categories": [
       "terminees"
-    ]
+    ],
+    "wood": "Bouleau",
+    "finish": "Huile de pépins de raisin"
   },
   {
     "src": "/showroom/bois-55bda993708e.webp",
     "thumb": "/showroom/thumbs/bois-55bda993708e.webp",
     "width": 1200,
     "height": 800,
-    "title": "Table basse — piètement doré",
+    "title": "Table basse en chêne — huile de pépins de raisin",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Chêne",
+    "finish": "Huile de pépins de raisin"
   },
   {
     "src": "/showroom/bois-34398e0b2e1e.webp",

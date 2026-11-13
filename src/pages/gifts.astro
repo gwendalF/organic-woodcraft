@@ -3,8 +3,8 @@ import '../styles/global.css';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import CreationCollection from '../components/CreationCollection.astro';
 import allPhotos from '../data/showroom.json';
-const titles=['Planche de service','Planches à poignée','Support de lecture en bois','Pendentif en bois','Planche aux bords naturels'];
-const photos=titles.flatMap(title=>{const photo=allPhotos.find(p=>p.title===title&&p.categories.includes('terminees'));return photo?[photo]:[]});
+const selectedPhotos=["/showroom/bois-c71bc8384d1f.webp","/showroom/bois-1597c677d457.webp","/showroom/bois-7ff45f73c427.webp","/showroom/bois-c21b5b309e60.webp","/showroom/bois-9e488cde37eb.webp"];
+const photos=selectedPhotos.flatMap(src=>{const photo=allPhotos.find(p=>p.src===src&&p.categories.includes('terminees'));return photo?[photo]:[]});
 ---
 <BaseLayout title="Idées cadeau en bois — Organic Woodcraft" description="Planches de service, supports de lecture et petites créations en bois massif. Découvrez les idées cadeau de l’atelier Organic Woodcraft.">
   <CreationCollection title="Idées cadeau" intro="Planches de service, supports de lecture et petites créations en bois massif : découvrez quelques idées issues de l’atelier. Des objets où le dessin du bois donne à chaque pièce son caractère." photos={photos} galleryUrl="/showroom#terminees" galleryLabel="Découvrir les réalisations de l’atelier"/>
