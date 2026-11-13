@@ -43,13 +43,13 @@
     "thumb": "/showroom/thumbs/bois-4b44bba3be94.webp",
     "width": 1200,
     "height": 900,
-    "title": "Banc en châtaignier brut",
+    "title": "Banc en châtaignier — huile de pépins de raisin",
     "categories": [
       "terminees",
       "sur-mesure"
     ],
     "wood": "Châtaignier",
-    "finish": "Brut",
+    "finish": "Huile de pépins de raisin",
     "projectId": "banc-chataignier-001"
   },
   {
@@ -75,7 +75,8 @@
       "sur-mesure"
     ],
     "wood": "Chêne",
-    "finish": "Huile de pépins de raisin"
+    "finish": "Huile de pépins de raisin",
+    "projectId": "plateau-lit-chene-001"
   },
   {
     "src": "/showroom/bois-34398e0b2e1e.webp",
@@ -184,14 +185,14 @@
     "thumb": "/showroom/thumbs/bois-75f646153b04.webp",
     "width": 1200,
     "height": 900,
-    "title": "Banc en châtaignier brut",
+    "title": "Banc en châtaignier — huile de pépins de raisin",
     "categories": [
       "terminees",
       "sur-mesure"
     ],
     "projectId": "banc-chataignier-001",
     "wood": "Châtaignier",
-    "finish": "Brut"
+    "finish": "Huile de pépins de raisin"
   },
   {
     "src": "/showroom/bois-3bbadb0d9c4e.webp",
@@ -292,13 +293,13 @@
     "thumb": "/showroom/thumbs/bois-efb312629726.webp",
     "width": 1200,
     "height": 900,
-    "title": "Banc en châtaignier brut",
+    "title": "Banc en châtaignier — huile de pépins de raisin",
     "categories": [
       "terminees",
       "sur-mesure"
     ],
     "wood": "Châtaignier",
-    "finish": "Brut",
+    "finish": "Huile de pépins de raisin",
     "projectId": "banc-chataignier-001"
   },
   {
@@ -458,64 +459,78 @@
     "thumb": "/showroom/thumbs/bois-4f0ca695de6b.webp",
     "width": 1200,
     "height": 597,
-    "title": "Banc — vue d’ensemble",
+    "title": "Banc en châtaignier — huile de pépins de raisin",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "projectId": "banc-chataignier-001",
+    "wood": "Châtaignier",
+    "finish": "Huile de pépins de raisin"
   },
   {
     "src": "/showroom/bois-1a42674fe31a.webp",
     "thumb": "/showroom/thumbs/bois-1a42674fe31a.webp",
     "width": 1200,
     "height": 596,
-    "title": "Petites pièces en bois",
+    "title": "Planches à découper — diverses essences",
     "categories": [
-      "terminees"
-    ]
+      "terminees",
+      "planches"
+    ],
+    "wood": "Diverses essences"
   },
   {
     "src": "/showroom/bois-d5e667ab272f.webp",
     "thumb": "/showroom/thumbs/bois-d5e667ab272f.webp",
     "width": 1200,
     "height": 800,
-    "title": "Table basse — détail du plateau",
+    "title": "Plateau de lit en chêne — huile de pépins de raisin",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Chêne",
+    "finish": "Huile de pépins de raisin",
+    "projectId": "plateau-lit-chene-001"
   },
   {
     "src": "/showroom/bois-c71bc8384d1f.webp",
     "thumb": "/showroom/thumbs/bois-c71bc8384d1f.webp",
     "width": 900,
     "height": 1200,
-    "title": "Planche de service",
+    "title": "Planche à saucisson en bouleau échauffé",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Bouleau échauffé"
   },
   {
     "src": "/showroom/bois-a046a4204bb6.webp",
     "thumb": "/showroom/thumbs/bois-a046a4204bb6.webp",
     "width": 900,
     "height": 1200,
-    "title": "Présentoir de créations en bois",
+    "title": "Créations exposées à la boutique Au fil des créations, à La Gacilly",
     "categories": [
       "terminees"
-    ]
+    ],
+    "exhibition": {
+      "shop": "Au fil des créations",
+      "town": "La Gacilly"
+    }
   },
   {
     "src": "/showroom/bois-9e488cde37eb.webp",
     "thumb": "/showroom/thumbs/bois-9e488cde37eb.webp",
     "width": 900,
     "height": 1200,
-    "title": "Planche aux bords naturels",
+    "title": "Planche à saucisson en bouleau",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Bouleau"
   },
   {
     "src": "/showroom/bois-d0699fa555cb.webp",
