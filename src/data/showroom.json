@@ -593,5 +593,25 @@
     "categories": [
       "en-cours"
     ]
+  },
+  {
+    "src": "/showroom/planche-drive-007.jpg",
+    "thumb": "/showroom/planche-drive-007.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Planche en bois massif",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/planche-drive-008.jpg",
+    "thumb": "/showroom/planche-drive-008.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Planche en bois massif",
+    "categories": [
+      "planches"
+    ]
   }
 ]
