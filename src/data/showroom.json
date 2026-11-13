@@ -1,697 +1,1947 @@
 [
   {
-    "src": "/showroom/organic-woodcraft-005.webp",
-    "thumb": "/showroom/organic-woodcraft-005.webp",
-    "width": 1600,
-    "height": 796,
-    "title": "Création en bois massif",
-    "categories": [
-      "terminees",
-      "sur-mesure"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-006.webp",
-    "thumb": "/showroom/organic-woodcraft-006.webp",
-    "width": 1600,
-    "height": 796,
-    "title": "Création en bois massif",
-    "categories": [
-      "terminees",
-      "sur-mesure"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-018.webp",
-    "thumb": "/showroom/organic-woodcraft-018.webp",
-    "width": 1600,
-    "height": 1200,
-    "title": "Création en bois massif",
-    "categories": [
-      "terminees",
-      "sur-mesure"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-020.webp",
-    "thumb": "/showroom/organic-woodcraft-020.webp",
-    "width": 1600,
-    "height": 1200,
-    "title": "Création en bois massif",
-    "categories": [
-      "terminees",
-      "sur-mesure"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-021.webp",
-    "thumb": "/showroom/organic-woodcraft-021.webp",
-    "width": 1600,
-    "height": 1200,
-    "title": "Création en bois massif",
-    "categories": [
-      "terminees",
-      "sur-mesure"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-002.webp",
-    "thumb": "/showroom/organic-woodcraft-002.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-007.webp",
-    "thumb": "/showroom/organic-woodcraft-007.webp",
-    "width": 796,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-011.webp",
-    "thumb": "/showroom/organic-woodcraft-011.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-012.webp",
-    "thumb": "/showroom/organic-woodcraft-012.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-013.webp",
-    "thumb": "/showroom/organic-woodcraft-013.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-014.webp",
-    "thumb": "/showroom/organic-woodcraft-014.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-015.webp",
-    "thumb": "/showroom/organic-woodcraft-015.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-016.webp",
-    "thumb": "/showroom/organic-woodcraft-016.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-017.webp",
-    "thumb": "/showroom/organic-woodcraft-017.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-022.webp",
-    "thumb": "/showroom/organic-woodcraft-022.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-025.webp",
-    "thumb": "/showroom/organic-woodcraft-025.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-026.webp",
-    "thumb": "/showroom/organic-woodcraft-026.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-027.webp",
-    "thumb": "/showroom/organic-woodcraft-027.webp",
-    "width": 1600,
-    "height": 1200,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-028.webp",
-    "thumb": "/showroom/organic-woodcraft-028.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Travail du bois en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-000.webp",
-    "thumb": "/showroom/organic-woodcraft-000.webp",
+    "src": "/showroom/bois-ec90c71eb82d.webp",
+    "thumb": "/showroom/thumbs/bois-ec90c71eb82d.webp",
     "width": 900,
-    "height": 1600,
-    "title": "Dans l’atelier",
+    "height": 1200,
+    "title": "Table aux bords naturels",
     "categories": [
-      "atelier"
+      "terminees",
+      "sur-mesure"
     ]
   },
   {
-    "src": "/showroom/organic-woodcraft-003.webp",
-    "thumb": "/showroom/organic-woodcraft-003.webp",
-    "width": 796,
-    "height": 1600,
-    "title": "Dans l’atelier",
-    "categories": [
-      "atelier"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-008.webp",
-    "thumb": "/showroom/organic-woodcraft-008.webp",
+    "src": "/showroom/bois-008903589bc3.webp",
+    "thumb": "/showroom/thumbs/bois-008903589bc3.webp",
     "width": 1200,
-    "height": 1600,
-    "title": "Dans l’atelier",
+    "height": 800,
+    "title": "Planche — détail du bois",
     "categories": [
-      "atelier"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-009.webp",
-    "thumb": "/showroom/organic-woodcraft-009.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Dans l’atelier",
-    "categories": [
-      "atelier"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-010.webp",
-    "thumb": "/showroom/organic-woodcraft-010.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "De la forêt à l’atelier",
-    "categories": [
-      "exterieur"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-023.webp",
-    "thumb": "/showroom/organic-woodcraft-023.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "De la forêt à l’atelier",
-    "categories": [
-      "exterieur"
-    ]
-  },
-  {
-    "src": "/showroom/organic-woodcraft-024.webp",
-    "thumb": "/showroom/organic-woodcraft-024.webp",
-    "width": 1200,
-    "height": 1600,
-    "title": "Dans l’atelier",
-    "categories": [
-      "atelier"
-    ]
-  },
-  {
-    "src": "/showroom/planche-drive-001.jpg",
-    "thumb": "/showroom/planche-drive-001.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Planches — sélection de l’atelier",
-    "categories": [
+      "terminees",
       "planches"
     ]
   },
   {
-    "src": "/showroom/planche-drive-002.jpg",
-    "thumb": "/showroom/planche-drive-002.jpg",
+    "src": "/showroom/bois-96f3514aef7c.webp",
+    "thumb": "/showroom/thumbs/bois-96f3514aef7c.webp",
     "width": 1200,
     "height": 900,
-    "title": "Planches — photo de l’atelier",
-    "categories": [
-      "planches"
-    ]
-  },
-  {
-    "src": "/showroom/planche-drive-003.jpg",
-    "thumb": "/showroom/planche-drive-003.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Planches — sélection de l’atelier",
-    "categories": [
-      "planches"
-    ]
-  },
-  {
-    "src": "/showroom/planche-drive-004.jpg",
-    "thumb": "/showroom/planche-drive-004.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Planches — sélection de l’atelier",
-    "categories": [
-      "planches"
-    ]
-  },
-  {
-    "src": "/showroom/planche-drive-005.jpg",
-    "thumb": "/showroom/planche-drive-005.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Planches — sélection de l’atelier",
-    "categories": [
-      "planches"
-    ]
-  },
-  {
-    "src": "/showroom/planche-drive-006.jpg",
-    "thumb": "/showroom/planche-drive-006.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Planches — sélection de l’atelier",
-    "categories": [
-      "planches"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-001.jpg",
-    "thumb": "/showroom/creation-drive-001.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
+    "title": "Support de lecture avec livre",
     "categories": [
       "terminees"
     ]
   },
   {
-    "src": "/showroom/encours-drive-001.jpg",
-    "thumb": "/showroom/encours-drive-001.jpg",
+    "src": "/showroom/bois-4b44bba3be94.webp",
+    "thumb": "/showroom/thumbs/bois-4b44bba3be94.webp",
     "width": 1200,
     "height": 900,
-    "title": "Création en cours",
+    "title": "Banc en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-c21b5b309e60.webp",
+    "thumb": "/showroom/thumbs/bois-c21b5b309e60.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Pendentif en bois",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-55bda993708e.webp",
+    "thumb": "/showroom/thumbs/bois-55bda993708e.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Table basse — piètement doré",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-34398e0b2e1e.webp",
+    "thumb": "/showroom/thumbs/bois-34398e0b2e1e.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Plateau en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-7a2962d016ce.webp",
+    "thumb": "/showroom/thumbs/bois-7a2962d016ce.webp",
+    "width": 1200,
+    "height": 880,
+    "title": "Assemblage en angle",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-f6c928043fea.webp",
+    "thumb": "/showroom/thumbs/bois-f6c928043fea.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Panneau en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-7f5f252cc5e8.webp",
+    "thumb": "/showroom/thumbs/bois-7f5f252cc5e8.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateau aux bords naturels",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-b2586d9a8da9.webp",
+    "thumb": "/showroom/thumbs/bois-b2586d9a8da9.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Panneau assemblé",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-7a80f26708b4.webp",
+    "thumb": "/showroom/thumbs/bois-7a80f26708b4.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Panneau en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-c876356f35b5.webp",
+    "thumb": "/showroom/thumbs/bois-c876356f35b5.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Détail d’un panneau assemblé",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-75f646153b04.webp",
+    "thumb": "/showroom/thumbs/bois-75f646153b04.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Table aux bords naturels",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-3bbadb0d9c4e.webp",
+    "thumb": "/showroom/thumbs/bois-3bbadb0d9c4e.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateau aux bords naturels",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-3b66452c9b8f.webp",
+    "thumb": "/showroom/thumbs/bois-3b66452c9b8f.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateau en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-942d4070534b.webp",
+    "thumb": "/showroom/thumbs/bois-942d4070534b.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateau fini",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-357c9de1f996.webp",
+    "thumb": "/showroom/thumbs/bois-357c9de1f996.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Panneaux en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-897eb9697f41.webp",
+    "thumb": "/showroom/thumbs/bois-897eb9697f41.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Table en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-9c2eaee26ec4.webp",
+    "thumb": "/showroom/thumbs/bois-9c2eaee26ec4.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Panneaux et plateau",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-cc3e4e6a815a.webp",
+    "thumb": "/showroom/thumbs/bois-cc3e4e6a815a.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Détail des panneaux",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-efb312629726.webp",
+    "thumb": "/showroom/thumbs/bois-efb312629726.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Table aux bords naturels",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-79b2a74340b6.webp",
+    "thumb": "/showroom/thumbs/bois-79b2a74340b6.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateau en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-7ff45f73c427.webp",
+    "thumb": "/showroom/thumbs/bois-7ff45f73c427.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Support de lecture en bois",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-30b2cb16dbed.webp",
+    "thumb": "/showroom/thumbs/bois-30b2cb16dbed.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Table en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-2df661c706fe.webp",
+    "thumb": "/showroom/thumbs/bois-2df661c706fe.webp",
+    "width": 1200,
+    "height": 597,
+    "title": "Table basse en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-62975e84855a.webp",
+    "thumb": "/showroom/thumbs/bois-62975e84855a.webp",
+    "width": 1200,
+    "height": 597,
+    "title": "Table basse — vue d’ensemble",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-24173ca2a932.webp",
+    "thumb": "/showroom/thumbs/bois-24173ca2a932.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Table basse à l’atelier",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-560bab53b7d8.webp",
+    "thumb": "/showroom/thumbs/bois-560bab53b7d8.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Plateaux en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-73b4dc62bb65.webp",
+    "thumb": "/showroom/thumbs/bois-73b4dc62bb65.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Petites pièces en bois",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-fc72afe433bd.webp",
+    "thumb": "/showroom/thumbs/bois-fc72afe433bd.webp",
+    "width": 191,
+    "height": 384,
+    "title": "Support de lecture à l’atelier",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-04a6b720a0d4.webp",
+    "thumb": "/showroom/thumbs/bois-04a6b720a0d4.webp",
+    "width": 1200,
+    "height": 597,
+    "title": "Banc en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-05b334d48b26.webp",
+    "thumb": "/showroom/thumbs/bois-05b334d48b26.webp",
+    "width": 1200,
+    "height": 597,
+    "title": "Banc aux bords naturels",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-4f0ca695de6b.webp",
+    "thumb": "/showroom/thumbs/bois-4f0ca695de6b.webp",
+    "width": 1200,
+    "height": 597,
+    "title": "Banc — vue d’ensemble",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-1a42674fe31a.webp",
+    "thumb": "/showroom/thumbs/bois-1a42674fe31a.webp",
+    "width": 1200,
+    "height": 596,
+    "title": "Petites pièces en bois",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-d5e667ab272f.webp",
+    "thumb": "/showroom/thumbs/bois-d5e667ab272f.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Table basse — détail du plateau",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-c71bc8384d1f.webp",
+    "thumb": "/showroom/thumbs/bois-c71bc8384d1f.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Planche de service",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-a046a4204bb6.webp",
+    "thumb": "/showroom/thumbs/bois-a046a4204bb6.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Présentoir de créations en bois",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-9e488cde37eb.webp",
+    "thumb": "/showroom/thumbs/bois-9e488cde37eb.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Planche aux bords naturels",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-d0699fa555cb.webp",
+    "thumb": "/showroom/thumbs/bois-d0699fa555cb.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Table basse — piètement",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-b6c2d1d287e5.webp",
+    "thumb": "/showroom/thumbs/bois-b6c2d1d287e5.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Planches de service",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-a27930f6d93b.webp",
+    "thumb": "/showroom/thumbs/bois-a27930f6d93b.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Planche en bois massif",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-d57400fe85e6.webp",
+    "thumb": "/showroom/thumbs/bois-d57400fe85e6.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Présentoir de planches",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-9f0e4b8640d4.webp",
+    "thumb": "/showroom/thumbs/bois-9f0e4b8640d4.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Planches — détail du veinage",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-df518be7d9f9.webp",
+    "thumb": "/showroom/thumbs/bois-df518be7d9f9.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Sélection de planches",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-99214d592d84.webp",
+    "thumb": "/showroom/thumbs/bois-99214d592d84.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Planches en bois massif",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-03dc3ccf47dd.webp",
+    "thumb": "/showroom/thumbs/bois-03dc3ccf47dd.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Présentoir de l’atelier",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-07449c34221d.webp",
+    "thumb": "/showroom/thumbs/bois-07449c34221d.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Planches — vue rapprochée",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-8832bfcefc21.webp",
+    "thumb": "/showroom/thumbs/bois-8832bfcefc21.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Planche aux bords naturels",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-76304710329f.webp",
+    "thumb": "/showroom/thumbs/bois-76304710329f.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Planche de service",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-35274458f0fc.webp",
+    "thumb": "/showroom/thumbs/bois-35274458f0fc.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Planche en bois massif",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-b571300b4d67.webp",
+    "thumb": "/showroom/thumbs/bois-b571300b4d67.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Table basse — vue du plateau",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-815e2532bb49.webp",
+    "thumb": "/showroom/thumbs/bois-815e2532bb49.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Planche — détail du veinage",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-456ee754ae11.webp",
+    "thumb": "/showroom/thumbs/bois-456ee754ae11.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Présentoir de créations",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-22f03ffe41c3.webp",
+    "thumb": "/showroom/thumbs/bois-22f03ffe41c3.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Présentoir — tables et planches",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-1597c677d457.webp",
+    "thumb": "/showroom/thumbs/bois-1597c677d457.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Planches à poignée",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-586ba381956c.webp",
+    "thumb": "/showroom/thumbs/bois-586ba381956c.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Sélection de créations",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-9d681d05bb30.webp",
+    "thumb": "/showroom/thumbs/bois-9d681d05bb30.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Table basse en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-9eabf902aa40.webp",
+    "thumb": "/showroom/thumbs/bois-9eabf902aa40.webp",
+    "width": 1200,
+    "height": 800,
+    "title": "Table basse — vue d’ensemble",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-d49c43145429.webp",
+    "thumb": "/showroom/thumbs/bois-d49c43145429.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Panneaux assemblés",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-33c5a6bfb176.webp",
+    "thumb": "/showroom/thumbs/bois-33c5a6bfb176.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Panneau en bois massif",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-00200b90f8fd.webp",
+    "thumb": "/showroom/thumbs/bois-00200b90f8fd.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Petites pièces de l’atelier",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-37aac4ec5cf4.webp",
+    "thumb": "/showroom/thumbs/bois-37aac4ec5cf4.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Planches et panneaux",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-bcde84d10ddf.webp",
+    "thumb": "/showroom/thumbs/bois-bcde84d10ddf.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Plateaux de l’atelier",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-52d6bfcea372.webp",
+    "thumb": "/showroom/thumbs/bois-52d6bfcea372.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Table — détail du veinage",
+    "categories": [
+      "terminees",
+      "sur-mesure"
+    ]
+  },
+  {
+    "src": "/showroom/bois-029ea455bec5.webp",
+    "thumb": "/showroom/thumbs/bois-029ea455bec5.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Sélection de plateaux",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-cc2e574e4105.webp",
+    "thumb": "/showroom/thumbs/bois-cc2e574e4105.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux — teintes et veinages",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-4510a648312e.webp",
+    "thumb": "/showroom/thumbs/bois-4510a648312e.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux en bois massif",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/bois-3c9ac70e6eff.webp",
+    "thumb": "/showroom/thumbs/bois-3c9ac70e6eff.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Sélection de planches",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-96c3132939b2.webp",
+    "thumb": "/showroom/thumbs/bois-96c3132939b2.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Planches — sélection de l’atelier",
+    "categories": [
+      "terminees",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-29efcc4f376a.webp",
+    "thumb": "/showroom/thumbs/bois-29efcc4f376a.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travail du bois en cours",
     "categories": [
       "en-cours"
     ]
   },
   {
-    "src": "/showroom/atelier-drive-001.jpg",
-    "thumb": "/showroom/atelier-drive-001.jpg",
+    "src": "/showroom/bois-2e18e982ba5c.webp",
+    "thumb": "/showroom/thumbs/bois-2e18e982ba5c.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-c2050c07f4ca.webp",
+    "thumb": "/showroom/thumbs/bois-c2050c07f4ca.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-5de759ec246b.webp",
+    "thumb": "/showroom/thumbs/bois-5de759ec246b.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-4ddf70ffcaa4.webp",
+    "thumb": "/showroom/thumbs/bois-4ddf70ffcaa4.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-636ff3e1f5a1.webp",
+    "thumb": "/showroom/thumbs/bois-636ff3e1f5a1.webp",
     "width": 1200,
     "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-92942fb9d34e.webp",
+    "thumb": "/showroom/thumbs/bois-92942fb9d34e.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-7ff040a9903a.webp",
+    "thumb": "/showroom/thumbs/bois-7ff040a9903a.webp",
+    "width": 675,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-555fb203b393.webp",
+    "thumb": "/showroom/thumbs/bois-555fb203b393.webp",
+    "width": 384,
+    "height": 191,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-b4cfea2a3243.webp",
+    "thumb": "/showroom/thumbs/bois-b4cfea2a3243.webp",
+    "width": 1200,
+    "height": 597,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-c57076b01599.webp",
+    "thumb": "/showroom/thumbs/bois-c57076b01599.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-e2891f05a31c.webp",
+    "thumb": "/showroom/thumbs/bois-e2891f05a31c.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-894d70a7af13.webp",
+    "thumb": "/showroom/thumbs/bois-894d70a7af13.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-c5d4c50d46e9.webp",
+    "thumb": "/showroom/thumbs/bois-c5d4c50d46e9.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-507f85f34c59.webp",
+    "thumb": "/showroom/thumbs/bois-507f85f34c59.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-e9263bdd276d.webp",
+    "thumb": "/showroom/thumbs/bois-e9263bdd276d.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-fe08d9059dd9.webp",
+    "thumb": "/showroom/thumbs/bois-fe08d9059dd9.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-4b01a72953df.webp",
+    "thumb": "/showroom/thumbs/bois-4b01a72953df.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-4cc1a6033ea7.webp",
+    "thumb": "/showroom/thumbs/bois-4cc1a6033ea7.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-d5461dc769cc.webp",
+    "thumb": "/showroom/thumbs/bois-d5461dc769cc.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-f2cd430c2e1b.webp",
+    "thumb": "/showroom/thumbs/bois-f2cd430c2e1b.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-97bfab9a9e58.webp",
+    "thumb": "/showroom/thumbs/bois-97bfab9a9e58.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-7bdc6f2a6b22.webp",
+    "thumb": "/showroom/thumbs/bois-7bdc6f2a6b22.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-20cb1e40f04e.webp",
+    "thumb": "/showroom/thumbs/bois-20cb1e40f04e.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-f340222e8948.webp",
+    "thumb": "/showroom/thumbs/bois-f340222e8948.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-2d9fe58866c2.webp",
+    "thumb": "/showroom/thumbs/bois-2d9fe58866c2.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-44c86f6d6e5e.webp",
+    "thumb": "/showroom/thumbs/bois-44c86f6d6e5e.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-d34b4a59cf37.webp",
+    "thumb": "/showroom/thumbs/bois-d34b4a59cf37.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-7f6f48d4800d.webp",
+    "thumb": "/showroom/thumbs/bois-7f6f48d4800d.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travail du bois en cours",
+    "categories": [
+      "en-cours"
+    ]
+  },
+  {
+    "src": "/showroom/bois-975a3627ebd0.webp",
+    "thumb": "/showroom/thumbs/bois-975a3627ebd0.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Contrôle du bois",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-1cc13ca10e90.webp",
+    "thumb": "/showroom/thumbs/bois-1cc13ca10e90.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Scierie Wood-Mizer à l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-98c2a6143f51.webp",
+    "thumb": "/showroom/thumbs/bois-98c2a6143f51.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "L’atelier en soirée",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-8106a37afd3d.webp",
+    "thumb": "/showroom/thumbs/bois-8106a37afd3d.webp",
+    "width": 900,
+    "height": 1200,
     "title": "À l’atelier",
     "categories": [
       "atelier"
     ]
   },
   {
-    "src": "/showroom/exterieur-drive-001.jpg",
-    "thumb": "/showroom/exterieur-drive-001.jpg",
+    "src": "/showroom/bois-f64279489383.webp",
+    "thumb": "/showroom/thumbs/bois-f64279489383.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "À l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-78310ae016da.webp",
+    "thumb": "/showroom/thumbs/bois-78310ae016da.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Assemblage sous presse",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-228b89df0d45.webp",
+    "thumb": "/showroom/thumbs/bois-228b89df0d45.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Sciage d’un plateau",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-0168da536010.webp",
+    "thumb": "/showroom/thumbs/bois-0168da536010.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "À la scierie",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-07631e87eaf9.webp",
+    "thumb": "/showroom/thumbs/bois-07631e87eaf9.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Le bois en cours de sciage",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-78f4efec3f4e.webp",
+    "thumb": "/showroom/thumbs/bois-78f4efec3f4e.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "À l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-a119fa252be5.webp",
+    "thumb": "/showroom/thumbs/bois-a119fa252be5.webp",
+    "width": 675,
+    "height": 1200,
+    "title": "Combiné à bois de l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-2619ea9a7733.webp",
+    "thumb": "/showroom/thumbs/bois-2619ea9a7733.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "À l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-8b11b14611d6.webp",
+    "thumb": "/showroom/thumbs/bois-8b11b14611d6.webp",
+    "width": 1200,
+    "height": 597,
+    "title": "Collage sous presse",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-b1cf9dfc12ba.webp",
+    "thumb": "/showroom/thumbs/bois-b1cf9dfc12ba.webp",
+    "width": 1200,
+    "height": 597,
+    "title": "Assemblage des panneaux",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-a94a46b17c8b.webp",
+    "thumb": "/showroom/thumbs/bois-a94a46b17c8b.webp",
+    "width": 1200,
+    "height": 597,
+    "title": "Préparation des panneaux",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-695a7f45dc42.webp",
+    "thumb": "/showroom/thumbs/bois-695a7f45dc42.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateau à la scierie",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-64ad129eddec.webp",
+    "thumb": "/showroom/thumbs/bois-64ad129eddec.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Wood-Mizer à l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-c9ae4bb20d6f.webp",
+    "thumb": "/showroom/thumbs/bois-c9ae4bb20d6f.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail en extérieur",
+    "title": "Stock de bois à l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-78fa2508105f.webp",
+    "thumb": "/showroom/thumbs/bois-78fa2508105f.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Vue de l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-68847e63c304.webp",
+    "thumb": "/showroom/thumbs/bois-68847e63c304.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Bois en séchage à l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-96f01f123f58.webp",
+    "thumb": "/showroom/thumbs/bois-96f01f123f58.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Le combiné à bois",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-c0a78603313b.webp",
+    "thumb": "/showroom/thumbs/bois-c0a78603313b.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Lucien à l’atelier",
+    "categories": [
+      "atelier"
+    ]
+  },
+  {
+    "src": "/showroom/bois-32a11332ff81.webp",
+    "thumb": "/showroom/thumbs/bois-32a11332ff81.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-afe326d880cf.webp",
+    "thumb": "/showroom/thumbs/bois-afe326d880cf.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-e5bd0f8f189c.webp",
+    "thumb": "/showroom/thumbs/bois-e5bd0f8f189c.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux bruts — veinage",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-2f0487fca099.webp",
+    "thumb": "/showroom/thumbs/bois-2f0487fca099.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-fd5332a9f5d5.webp",
+    "thumb": "/showroom/thumbs/bois-fd5332a9f5d5.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-bb48fdbe9642.webp",
+    "thumb": "/showroom/thumbs/bois-bb48fdbe9642.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-f4104f1dd139.webp",
+    "thumb": "/showroom/thumbs/bois-f4104f1dd139.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateau brut aux bords naturels",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-92fa18342d5c.webp",
+    "thumb": "/showroom/thumbs/bois-92fa18342d5c.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateau brut après sciage",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-abc7a3175ec4.webp",
+    "thumb": "/showroom/thumbs/bois-abc7a3175ec4.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-33becbcecbd5.webp",
+    "thumb": "/showroom/thumbs/bois-33becbcecbd5.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-c6a58271213f.webp",
+    "thumb": "/showroom/thumbs/bois-c6a58271213f.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-3539683daf03.webp",
+    "thumb": "/showroom/thumbs/bois-3539683daf03.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-6fac10c4cb61.webp",
+    "thumb": "/showroom/thumbs/bois-6fac10c4cb61.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-32edf1532dbc.webp",
+    "thumb": "/showroom/thumbs/bois-32edf1532dbc.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-8a2a8b0efc86.webp",
+    "thumb": "/showroom/thumbs/bois-8a2a8b0efc86.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-5cc1c70786ac.webp",
+    "thumb": "/showroom/thumbs/bois-5cc1c70786ac.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-a898ca7ae0e8.webp",
+    "thumb": "/showroom/thumbs/bois-a898ca7ae0e8.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-699337c1872d.webp",
+    "thumb": "/showroom/thumbs/bois-699337c1872d.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-280cb62c554e.webp",
+    "thumb": "/showroom/thumbs/bois-280cb62c554e.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Section de bois — détail",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-6e643d2aa7e2.webp",
+    "thumb": "/showroom/thumbs/bois-6e643d2aa7e2.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-f4d8f68dee53.webp",
+    "thumb": "/showroom/thumbs/bois-f4d8f68dee53.webp",
+    "width": 128,
+    "height": 176,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-d47d4ca985d6.webp",
+    "thumb": "/showroom/thumbs/bois-d47d4ca985d6.webp",
+    "width": 128,
+    "height": 176,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-b9c36b2bcd3c.webp",
+    "thumb": "/showroom/thumbs/bois-b9c36b2bcd3c.webp",
+    "width": 128,
+    "height": 176,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-bc969c849dc4.webp",
+    "thumb": "/showroom/thumbs/bois-bc969c849dc4.webp",
+    "width": 675,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-fe65385fb66f.webp",
+    "thumb": "/showroom/thumbs/bois-fe65385fb66f.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-9d3202609c7d.webp",
+    "thumb": "/showroom/thumbs/bois-9d3202609c7d.webp",
+    "width": 1200,
+    "height": 675,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-0ec95b4204e3.webp",
+    "thumb": "/showroom/thumbs/bois-0ec95b4204e3.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Coupe du bois — détail",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-7336a694dfa1.webp",
+    "thumb": "/showroom/thumbs/bois-7336a694dfa1.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Bois de bout — détail",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-988175086146.webp",
+    "thumb": "/showroom/thumbs/bois-988175086146.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-370ea667fda4.webp",
+    "thumb": "/showroom/thumbs/bois-370ea667fda4.webp",
+    "width": 596,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-12115e49ff83.webp",
+    "thumb": "/showroom/thumbs/bois-12115e49ff83.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-de8a78cd5ef4.webp",
+    "thumb": "/showroom/thumbs/bois-de8a78cd5ef4.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-26664d0ad6cc.webp",
+    "thumb": "/showroom/thumbs/bois-26664d0ad6cc.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-f667956f0254.webp",
+    "thumb": "/showroom/thumbs/bois-f667956f0254.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-8ed9dc3b791c.webp",
+    "thumb": "/showroom/thumbs/bois-8ed9dc3b791c.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-67b68be4362c.webp",
+    "thumb": "/showroom/thumbs/bois-67b68be4362c.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-4accd48d9f02.webp",
+    "thumb": "/showroom/thumbs/bois-4accd48d9f02.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-b05c1409edaa.webp",
+    "thumb": "/showroom/thumbs/bois-b05c1409edaa.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Plateaux et planches brutes",
+    "categories": [
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-12b5c46962b3.webp",
+    "thumb": "/showroom/thumbs/bois-12b5c46962b3.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Préparation d’une grume",
     "categories": [
       "exterieur"
     ]
   },
   {
-    "src": "/showroom/creation-drive-002.jpg",
-    "thumb": "/showroom/creation-drive-002.jpg",
+    "src": "/showroom/bois-58085c003a93.webp",
+    "thumb": "/showroom/thumbs/bois-58085c003a93.webp",
     "width": 1200,
     "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-003.jpg",
-    "thumb": "/showroom/creation-drive-003.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/encours-drive-002.jpg",
-    "thumb": "/showroom/encours-drive-002.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/atelier-drive-002.jpg",
-    "thumb": "/showroom/atelier-drive-002.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "À l’atelier",
-    "categories": [
-      "atelier"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-004.jpg",
-    "thumb": "/showroom/creation-drive-004.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-005.jpg",
-    "thumb": "/showroom/creation-drive-005.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/encours-drive-003.jpg",
-    "thumb": "/showroom/encours-drive-003.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/atelier-drive-003.jpg",
-    "thumb": "/showroom/atelier-drive-003.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "À l’atelier",
-    "categories": [
-      "atelier"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-006.jpg",
-    "thumb": "/showroom/creation-drive-006.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-007.jpg",
-    "thumb": "/showroom/creation-drive-007.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/encours-drive-004.jpg",
-    "thumb": "/showroom/encours-drive-004.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/atelier-drive-004.jpg",
-    "thumb": "/showroom/atelier-drive-004.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "À l’atelier",
-    "categories": [
-      "atelier"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-008.jpg",
-    "thumb": "/showroom/creation-drive-008.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-009.jpg",
-    "thumb": "/showroom/creation-drive-009.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-010.jpg",
-    "thumb": "/showroom/creation-drive-010.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-011.jpg",
-    "thumb": "/showroom/creation-drive-011.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-012.jpg",
-    "thumb": "/showroom/creation-drive-012.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-013.jpg",
-    "thumb": "/showroom/creation-drive-013.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-014.jpg",
-    "thumb": "/showroom/creation-drive-014.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-015.jpg",
-    "thumb": "/showroom/creation-drive-015.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-016.jpg",
-    "thumb": "/showroom/creation-drive-016.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/creation-drive-017.jpg",
-    "thumb": "/showroom/creation-drive-017.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
-    "categories": [
-      "terminees"
-    ]
-  },
-  {
-    "src": "/showroom/encours-drive-005.jpg",
-    "thumb": "/showroom/encours-drive-005.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création en cours",
-    "categories": [
-      "en-cours"
-    ]
-  },
-  {
-    "src": "/showroom/planche-drive-007.jpg",
-    "thumb": "/showroom/planche-drive-007.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Planche en bois massif",
-    "categories": [
-      "planches"
-    ]
-  },
-  {
-    "src": "/showroom/planche-drive-008.jpg",
-    "thumb": "/showroom/planche-drive-008.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Planche en bois massif",
-    "categories": [
-      "planches"
-    ]
-  },
-  {
-    "src": "/showroom/planche-drive-009.jpg",
-    "thumb": "/showroom/planche-drive-009.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Planche en bois massif",
-    "categories": [
-      "planches"
-    ]
-  },
-  {
-    "src": "/showroom/planche-drive-010.jpg",
-    "thumb": "/showroom/planche-drive-010.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Planche en bois massif",
-    "categories": [
-      "planches"
-    ]
-  },
-  {
-    "src": "/showroom/atelier-drive-005.jpg",
-    "thumb": "/showroom/atelier-drive-005.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "L'atelier",
-    "categories": [
-      "atelier"
-    ]
-  },
-  {
-    "src": "/showroom/exterieur-drive-002.jpg",
-    "thumb": "/showroom/exterieur-drive-002.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Travaux extérieurs et bois brut",
+    "title": "Manutention du bois au tracteur",
     "categories": [
       "exterieur"
     ]
   },
   {
-    "src": "/showroom/encours-drive-006.jpg",
-    "thumb": "/showroom/encours-drive-006.jpg",
+    "src": "/showroom/bois-a1b3f09177a6.webp",
+    "thumb": "/showroom/thumbs/bois-a1b3f09177a6.webp",
     "width": 1200,
     "height": 900,
-    "title": "Création en cours",
+    "title": "Sur le chemin de la forêt",
     "categories": [
-      "en-cours"
+      "exterieur"
     ]
   },
   {
-    "src": "/showroom/creation-drive-018.jpg",
-    "thumb": "/showroom/creation-drive-018.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
+    "src": "/showroom/bois-11ef8ba790fc.webp",
+    "thumb": "/showroom/thumbs/bois-11ef8ba790fc.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Transport d’une grume",
     "categories": [
-      "terminees"
+      "exterieur"
     ]
   },
   {
-    "src": "/showroom/creation-drive-019.jpg",
-    "thumb": "/showroom/creation-drive-019.jpg",
-    "width": 1200,
-    "height": 900,
-    "title": "Création terminée",
+    "src": "/showroom/bois-e2d4b6fa902c.webp",
+    "thumb": "/showroom/thumbs/bois-e2d4b6fa902c.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Travaux en extérieur",
     "categories": [
-      "terminees"
+      "exterieur"
     ]
   },
   {
-    "src": "/showroom/creation-drive-020.jpg",
-    "thumb": "/showroom/creation-drive-020.jpg",
+    "src": "/showroom/bois-e6292530f210.webp",
+    "thumb": "/showroom/thumbs/bois-e6292530f210.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Arbre sur pied",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-f2b955ced731.webp",
+    "thumb": "/showroom/thumbs/bois-f2b955ced731.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Grumes à l’atelier",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-6e7940c8c2fe.webp",
+    "thumb": "/showroom/thumbs/bois-6e7940c8c2fe.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "En forêt",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-e24f8914fdc7.webp",
+    "thumb": "/showroom/thumbs/bois-e24f8914fdc7.webp",
     "width": 1200,
     "height": 900,
-    "title": "Création terminée",
+    "title": "Manutention des grumes",
     "categories": [
-      "terminees"
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-2c2ff12aa0c6.webp",
+    "thumb": "/showroom/thumbs/bois-2c2ff12aa0c6.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Arbres en forêt",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-70e302ff26f1.webp",
+    "thumb": "/showroom/thumbs/bois-70e302ff26f1.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Grume après abattage",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-3ca807428e38.webp",
+    "thumb": "/showroom/thumbs/bois-3ca807428e38.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Transport du bois",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-f3e5ff3c7e4f.webp",
+    "thumb": "/showroom/thumbs/bois-f3e5ff3c7e4f.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Grumes avant sciage",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-5b6fbb1a7d39.webp",
+    "thumb": "/showroom/thumbs/bois-5b6fbb1a7d39.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Bois en extérieur",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-781ea84f46d6.webp",
+    "thumb": "/showroom/thumbs/bois-781ea84f46d6.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Débit d’une grume",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-f81b182ffb54.webp",
+    "thumb": "/showroom/thumbs/bois-f81b182ffb54.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Au pied des arbres",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-aee98d4cea97.webp",
+    "thumb": "/showroom/thumbs/bois-aee98d4cea97.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Travaux de manutention",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-27ae5c703ec5.webp",
+    "thumb": "/showroom/thumbs/bois-27ae5c703ec5.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Le bois avant sciage",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-33960b93ab8d.webp",
+    "thumb": "/showroom/thumbs/bois-33960b93ab8d.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Grumes après abattage",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-3548c05e5eb8.webp",
+    "thumb": "/showroom/thumbs/bois-3548c05e5eb8.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Manutention en extérieur",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-b17ced63c714.webp",
+    "thumb": "/showroom/thumbs/bois-b17ced63c714.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Grumes à transformer",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-b987dc787573.webp",
+    "thumb": "/showroom/thumbs/bois-b987dc787573.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Lucien en extérieur",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-be0b58104cb8.webp",
+    "thumb": "/showroom/thumbs/bois-be0b58104cb8.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "En forêt avec Lucien",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-9063e4c44bd8.webp",
+    "thumb": "/showroom/thumbs/bois-9063e4c44bd8.webp",
+    "width": 900,
+    "height": 1200,
+    "title": "Débit d’une grume",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-1f7333cdff34.webp",
+    "thumb": "/showroom/thumbs/bois-1f7333cdff34.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Préparation des grumes",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-a1016454605e.webp",
+    "thumb": "/showroom/thumbs/bois-a1016454605e.webp",
+    "width": 1200,
+    "height": 900,
+    "title": "Manutention du bois",
+    "categories": [
+      "exterieur"
+    ]
+  },
+  {
+    "src": "/showroom/bois-6d2164b55cee.webp",
+    "thumb": "/showroom/thumbs/bois-6d2164b55cee.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Chêne d’Amérique — aperçu du bois",
+    "categories": [
+      "essences",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-0cd727ca45dc.webp",
+    "thumb": "/showroom/thumbs/bois-0cd727ca45dc.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Chêne — aperçu du bois",
+    "categories": [
+      "essences",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-4f51dd918fef.webp",
+    "thumb": "/showroom/thumbs/bois-4f51dd918fef.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Bouleau — aperçu du bois",
+    "categories": [
+      "essences",
+      "planches"
+    ]
+  },
+  {
+    "src": "/showroom/bois-c225476c6f48.webp",
+    "thumb": "/showroom/thumbs/bois-c225476c6f48.webp",
+    "width": 597,
+    "height": 1200,
+    "title": "Châtaignier — aperçu du bois",
+    "categories": [
+      "essences",
+      "planches"
     ]
   }
 ]
