@@ -633,5 +633,15 @@
     "categories": [
       "planches"
     ]
+  },
+  {
+    "src": "/showroom/atelier-drive-005.jpg",
+    "thumb": "/showroom/atelier-drive-005.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "L'atelier",
+    "categories": [
+      "atelier"
+    ]
   }
 ]
