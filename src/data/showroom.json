@@ -239,12 +239,13 @@
     "thumb": "/showroom/thumbs/bois-357c9de1f996.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateau de service en hêtre échauffé",
+    "title": "Plateau de service en hêtre échauffé brut",
     "categories": [
       "terminees",
       "planches"
     ],
-    "wood": "Hêtre échauffé"
+    "wood": "Hêtre échauffé",
+    "finish": "Brut, sans finition"
   },
   {
     "src": "/showroom/bois-897eb9697f41.webp",
