@@ -663,5 +663,25 @@
     "categories": [
       "en-cours"
     ]
+  },
+  {
+    "src": "/showroom/creation-drive-018.jpg",
+    "thumb": "/showroom/creation-drive-018.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création terminée",
+    "categories": [
+      "terminees"
+    ]
+  },
+  {
+    "src": "/showroom/creation-drive-019.jpg",
+    "thumb": "/showroom/creation-drive-019.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création terminée",
+    "categories": [
+      "terminees"
+    ]
   }
 ]
