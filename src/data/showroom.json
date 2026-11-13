@@ -80,13 +80,19 @@
     "thumb": "/showroom/thumbs/bois-34398e0b2e1e.webp",
     "width": 1200,
     "height": 900,
-    "title": "Plateau en châtaignier lamellé-collé — vernis satiné",
+    "title": "Plateau en châtaignier lamellé-collé — vernis satiné V33, teinte châtaignier",
     "categories": [
       "terminees",
       "sur-mesure"
     ],
     "wood": "Châtaignier",
-    "finish": "Vernis satiné"
+    "finish": "Vernis satiné V33 Meubles & Boiseries, teinte châtaignier",
+    "finishProduct": {
+      "brand": "V33",
+      "range": "Vernis Satin Meubles & Boiseries",
+      "shade": "Châtaignier",
+      "technology": "Céramique"
+    }
   },
   {
     "src": "/showroom/bois-7a2962d016ce.webp",
