@@ -68,7 +68,7 @@
     "thumb": "/showroom/thumbs/bois-55bda993708e.webp",
     "width": 1200,
     "height": 800,
-    "title": "Table basse en chêne — huile de pépins de raisin",
+    "title": "Plateau de lit en chêne — huile de pépins de raisin",
     "categories": [
       "terminees",
       "sur-mesure"
@@ -252,55 +252,62 @@
     "thumb": "/showroom/thumbs/bois-897eb9697f41.webp",
     "width": 900,
     "height": 1200,
-    "title": "Table en bois massif",
+    "title": "Table basse en chêne d’Amérique",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Chêne d’Amérique"
   },
   {
     "src": "/showroom/bois-9c2eaee26ec4.webp",
     "thumb": "/showroom/thumbs/bois-9c2eaee26ec4.webp",
     "width": 900,
     "height": 1200,
-    "title": "Panneaux et plateau",
+    "title": "Planche à découper en châtaignier",
     "categories": [
       "terminees",
-      "sur-mesure"
-    ]
+      "planches"
+    ],
+    "wood": "Châtaignier"
   },
   {
     "src": "/showroom/bois-cc3e4e6a815a.webp",
     "thumb": "/showroom/thumbs/bois-cc3e4e6a815a.webp",
     "width": 900,
     "height": 1200,
-    "title": "Détail des panneaux",
+    "title": "Planche à découper en hêtre",
     "categories": [
       "terminees",
-      "sur-mesure"
-    ]
+      "planches"
+    ],
+    "wood": "Hêtre"
   },
   {
     "src": "/showroom/bois-efb312629726.webp",
     "thumb": "/showroom/thumbs/bois-efb312629726.webp",
     "width": 1200,
     "height": 900,
-    "title": "Table aux bords naturels",
+    "title": "Banc en châtaignier brut",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Brut",
+    "projectId": "banc-chataignier-001"
   },
   {
     "src": "/showroom/bois-79b2a74340b6.webp",
     "thumb": "/showroom/thumbs/bois-79b2a74340b6.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateau en bois massif",
+    "title": "Planche à pain en peuplier",
     "categories": [
       "terminees",
-      "sur-mesure"
-    ]
+      "planches"
+    ],
+    "wood": "Peuplier"
   },
   {
     "src": "/showroom/bois-7ff45f73c427.webp",
