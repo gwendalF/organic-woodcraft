@@ -80,65 +80,78 @@
     "thumb": "/showroom/thumbs/bois-34398e0b2e1e.webp",
     "width": 1200,
     "height": 900,
-    "title": "Plateau en bois massif",
+    "title": "Plateau en châtaignier lamellé-collé — vernis satiné",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Vernis satiné"
   },
   {
     "src": "/showroom/bois-7a2962d016ce.webp",
     "thumb": "/showroom/thumbs/bois-7a2962d016ce.webp",
     "width": 1200,
     "height": 880,
-    "title": "Assemblage en angle",
+    "title": "Plan de travail en chêne d’Amérique brut",
     "categories": [
-      "terminees"
-    ]
+      "terminees",
+      "sur-mesure"
+    ],
+    "wood": "Chêne d’Amérique",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-f6c928043fea.webp",
     "thumb": "/showroom/thumbs/bois-f6c928043fea.webp",
     "width": 1200,
     "height": 900,
-    "title": "Panneau en bois massif",
+    "title": "Billot de découpe en merisier brut",
     "categories": [
       "terminees",
-      "sur-mesure"
-    ]
+      "planches"
+    ],
+    "wood": "Merisier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-7f5f252cc5e8.webp",
     "thumb": "/showroom/thumbs/bois-7f5f252cc5e8.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateau aux bords naturels",
+    "title": "Plateau de table basse en merisier brut",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Merisier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-b2586d9a8da9.webp",
     "thumb": "/showroom/thumbs/bois-b2586d9a8da9.webp",
     "width": 900,
     "height": 1200,
-    "title": "Panneau assemblé",
+    "title": "Planche à pain en peuplier, traverses en pin — brut",
     "categories": [
       "terminees",
-      "sur-mesure"
-    ]
+      "planches"
+    ],
+    "wood": "Peuplier et pin",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-7a80f26708b4.webp",
     "thumb": "/showroom/thumbs/bois-7a80f26708b4.webp",
     "width": 1200,
     "height": 900,
-    "title": "Panneau en bois massif",
+    "title": "Planche à pain en peuplier, traverses en pin — brut",
     "categories": [
       "terminees",
-      "sur-mesure"
-    ]
+      "planches"
+    ],
+    "wood": "Peuplier et pin",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-c876356f35b5.webp",

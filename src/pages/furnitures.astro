@@ -3,7 +3,7 @@ import '../styles/global.css';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import CreationCollection from '../components/CreationCollection.astro';
 import allPhotos from '../data/showroom.json';
-const selectedPhotos=["/showroom/bois-ec90c71eb82d.webp","/showroom/bois-4b44bba3be94.webp","/showroom/bois-55bda993708e.webp","/showroom/bois-34398e0b2e1e.webp","/showroom/bois-f6c928043fea.webp","/showroom/bois-2df661c706fe.webp"];
+const selectedPhotos=["/showroom/bois-ec90c71eb82d.webp","/showroom/bois-4b44bba3be94.webp","/showroom/bois-55bda993708e.webp","/showroom/bois-34398e0b2e1e.webp","/showroom/bois-7a2962d016ce.webp","/showroom/bois-2df661c706fe.webp"];
 const photos=selectedPhotos.flatMap(src=>{const photo=allPhotos.find(p=>p.src===src&&p.categories.includes('sur-mesure'));return photo?[photo]:[]});
 ---
 <BaseLayout title="Mobilier sur mesure — Organic Woodcraft" description="Tables, plans de travail, panneaux et mobilier en bois massif fabriqués à Saint-Jacut-les-Pins. Découvrez les réalisations Organic Woodcraft.">
