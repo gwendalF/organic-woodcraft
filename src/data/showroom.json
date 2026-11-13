@@ -653,5 +653,15 @@
     "categories": [
       "exterieur"
     ]
+  },
+  {
+    "src": "/showroom/encours-drive-006.jpg",
+    "thumb": "/showroom/encours-drive-006.jpg",
+    "width": 1200,
+    "height": 900,
+    "title": "Création en cours",
+    "categories": [
+      "en-cours"
+    ]
   }
 ]
