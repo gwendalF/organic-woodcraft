@@ -1639,10 +1639,12 @@
     "thumb": "/showroom/thumbs/bois-68847e63c304.webp",
     "width": 1200,
     "height": 900,
-    "title": "Bois en séchage à l’atelier",
+    "title": "Lamellés-collés en hêtre destinés aux plateaux de service",
     "categories": [
       "atelier"
-    ]
+    ],
+    "wood": "Hêtre",
+    "construction": "Lamellé-collé"
   },
   {
     "src": "/showroom/bois-96f01f123f58.webp",
