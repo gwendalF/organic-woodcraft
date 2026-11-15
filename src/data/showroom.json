@@ -537,50 +537,63 @@
     "thumb": "/showroom/thumbs/bois-d0699fa555cb.webp",
     "width": 1200,
     "height": 800,
-    "title": "Table basse — piètement",
+    "title": "Plateau de lit en châtaignier — huile de pépins de raisin, pieds en métal",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Huile de pépins de raisin",
+    "materials": {
+      "top": "Châtaignier",
+      "legs": "Métal"
+    }
   },
   {
     "src": "/showroom/bois-b6c2d1d287e5.webp",
     "thumb": "/showroom/thumbs/bois-b6c2d1d287e5.webp",
     "width": 1200,
     "height": 800,
-    "title": "Planches de service",
+    "title": "Planches à saucisson en hêtre — huile de pépins de raisin",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Hêtre",
+    "finish": "Huile de pépins de raisin"
   },
   {
     "src": "/showroom/bois-a27930f6d93b.webp",
     "thumb": "/showroom/thumbs/bois-a27930f6d93b.webp",
     "width": 900,
     "height": 1200,
-    "title": "Planche en bois massif",
+    "title": "Planche à saucisson en hêtre",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Hêtre"
   },
   {
     "src": "/showroom/bois-d57400fe85e6.webp",
     "thumb": "/showroom/thumbs/bois-d57400fe85e6.webp",
     "width": 900,
     "height": 1200,
-    "title": "Présentoir de planches",
+    "title": "Créations exposées à la boutique Au fil des créations, à La Gacilly",
     "categories": [
       "terminees"
-    ]
+    ],
+    "exhibition": {
+      "shop": "Au fil des créations",
+      "town": "La Gacilly"
+    }
   },
   {
     "src": "/showroom/bois-9f0e4b8640d4.webp",
     "thumb": "/showroom/thumbs/bois-9f0e4b8640d4.webp",
     "width": 900,
     "height": 1200,
-    "title": "Planches — détail du veinage",
+    "title": "Planches à saucisson",
     "categories": [
       "terminees",
       "planches"
