@@ -757,64 +757,76 @@
     "thumb": "/showroom/thumbs/bois-586ba381956c.webp",
     "width": 900,
     "height": 1200,
-    "title": "Sélection de créations",
+    "title": "Créations exposées à la boutique Au fil des créations, à La Gacilly",
     "categories": [
       "terminees"
-    ]
+    ],
+    "exhibition": {
+      "shop": "Au fil des créations",
+      "town": "La Gacilly"
+    }
   },
   {
     "src": "/showroom/bois-9d681d05bb30.webp",
     "thumb": "/showroom/thumbs/bois-9d681d05bb30.webp",
     "width": 1200,
     "height": 800,
-    "title": "Table basse en bois massif",
+    "title": "Plateau de lit en châtaignier massif",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier"
   },
   {
     "src": "/showroom/bois-9eabf902aa40.webp",
     "thumb": "/showroom/thumbs/bois-9eabf902aa40.webp",
     "width": 1200,
     "height": 800,
-    "title": "Table basse — vue d’ensemble",
+    "title": "Plateau de lit en châtaignier massif — huile de pépins de raisin",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Huile de pépins de raisin"
   },
   {
     "src": "/showroom/bois-d49c43145429.webp",
     "thumb": "/showroom/thumbs/bois-d49c43145429.webp",
     "width": 1200,
     "height": 900,
-    "title": "Panneaux assemblés",
+    "title": "Planches à palets en peuplier brut",
     "categories": [
       "terminees",
-      "sur-mesure"
-    ]
+      "planches"
+    ],
+    "wood": "Peuplier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-33c5a6bfb176.webp",
     "thumb": "/showroom/thumbs/bois-33c5a6bfb176.webp",
     "width": 900,
     "height": 1200,
-    "title": "Panneau en bois massif",
+    "title": "Planche à découper en hêtre échauffé brut",
     "categories": [
       "terminees",
-      "sur-mesure"
-    ]
+      "planches"
+    ],
+    "wood": "Hêtre échauffé",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-00200b90f8fd.webp",
     "thumb": "/showroom/thumbs/bois-00200b90f8fd.webp",
     "width": 900,
     "height": 1200,
-    "title": "Petites pièces de l’atelier",
+    "title": "Diverses pièces en cours de réalisation",
     "categories": [
-      "terminees"
-    ]
+      "en-cours"
+    ],
+    "wood": "Hêtre, peuplier et merisier"
   },
   {
     "src": "/showroom/bois-37aac4ec5cf4.webp",
