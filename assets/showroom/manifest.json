@@ -174,5 +174,9 @@
   {
     "file": "photos-041.json",
     "sha256": "b4078149dfa157a759e58811aa6a2775f157d2d0f60df11226c817d866a775fb"
+  },
+  {
+    "file": "photos-042.json",
+    "sha256": "1c8f5575980f9c6bd589e03a092aa6b8049bf55b32be81c828e281eaeda3a78b"
   }
 ]
