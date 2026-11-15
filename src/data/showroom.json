@@ -896,7 +896,8 @@
       "sur-mesure"
     ],
     "wood": "Châtaignier",
-    "construction": "Lamellé-collé"
+    "construction": "Lamellé-collé",
+    "projectId": "table-manger-chataignier-001"
   },
   {
     "src": "/showroom/bois-029ea455bec5.webp",
@@ -1165,27 +1166,32 @@
     "thumb": "/showroom/thumbs/bois-e2891f05a31c.webp",
     "width": 597,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Plateau de table à manger en châtaignier — après ponçage",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "construction": "Lamellé-collé",
+    "projectId": "table-manger-chataignier-001"
   },
   {
     "src": "/showroom/bois-894d70a7af13.webp",
     "thumb": "/showroom/thumbs/bois-894d70a7af13.webp",
     "width": 597,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Lamellé-collé de chêne d’Amérique en cours de fabrication",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Chêne d’Amérique",
+    "construction": "Lamellé-collé"
   },
   {
     "src": "/showroom/bois-c5d4c50d46e9.webp",
     "thumb": "/showroom/thumbs/bois-c5d4c50d46e9.webp",
     "width": 900,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Billots de découpe en cours de fabrication",
     "categories": [
       "en-cours"
     ]
@@ -1195,17 +1201,19 @@
     "thumb": "/showroom/thumbs/bois-507f85f34c59.webp",
     "width": 900,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Lamellé-collé de peuplier pour planches à palets — fabrication en cours",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Peuplier",
+    "construction": "Lamellé-collé"
   },
   {
     "src": "/showroom/bois-e9263bdd276d.webp",
     "thumb": "/showroom/thumbs/bois-e9263bdd276d.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Sélection du bois avant rabotage",
     "categories": [
       "en-cours"
     ]
@@ -1215,20 +1223,24 @@
     "thumb": "/showroom/thumbs/bois-fe08d9059dd9.webp",
     "width": 900,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Lamellé-collé de peuplier avant ponçage",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Peuplier",
+    "construction": "Lamellé-collé"
   },
   {
     "src": "/showroom/bois-4b01a72953df.webp",
     "thumb": "/showroom/thumbs/bois-4b01a72953df.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Série de plateaux de service — classement par catégorie",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "projectId": "fabrication-plateaux-service-001",
+    "projectTitle": "Fabrication d’une série de plateaux de service"
   },
   {
     "src": "/showroom/bois-4cc1a6033ea7.webp",
