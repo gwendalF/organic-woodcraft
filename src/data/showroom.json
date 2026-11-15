@@ -903,8 +903,7 @@
     "height": 1200,
     "title": "Billot de découpe en acajou et planche à découper en châtaignier",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Acajou et châtaignier",
     "pieces": [
@@ -925,8 +924,7 @@
     "height": 1200,
     "title": "Planches à découper en bouleau — brut et huile de pépins de raisin",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Bouleau",
     "description": "Une planche en bouleau brut et une planche en bouleau huilée à l’huile de pépins de raisin.",
@@ -950,8 +948,7 @@
     "height": 900,
     "title": "Planches à découper en bouleau, châtaignier et merisier",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Bouleau, châtaignier et merisier",
     "pieces": [
@@ -976,8 +973,7 @@
     "height": 900,
     "title": "Planches à découper — châtaignier huilé et bouleau brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Châtaignier et bouleau",
     "description": "Une planche en châtaignier huilée à l’huile de pépins de raisin et deux planches en bouleau brut.",
@@ -1647,210 +1643,232 @@
     "thumb": "/showroom/thumbs/bois-32a11332ff81.webp",
     "width": 1200,
     "height": 900,
-    "title": "Plateaux et planches brutes",
+    "title": "Sciage d’une grume de chêne",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Chêne"
   },
   {
     "src": "/showroom/bois-afe326d880cf.webp",
     "thumb": "/showroom/thumbs/bois-afe326d880cf.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Planche de chêne fraîchement sciée",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Chêne"
   },
   {
     "src": "/showroom/bois-e5bd0f8f189c.webp",
     "thumb": "/showroom/thumbs/bois-e5bd0f8f189c.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux bruts — veinage",
+    "title": "Plateau de bouleau brut",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Bouleau"
   },
   {
     "src": "/showroom/bois-2f0487fca099.webp",
     "thumb": "/showroom/thumbs/bois-2f0487fca099.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Planches de douglas brutes",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Douglas"
   },
   {
     "src": "/showroom/bois-fd5332a9f5d5.webp",
     "thumb": "/showroom/thumbs/bois-fd5332a9f5d5.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Plateau de merisier brut",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Merisier"
   },
   {
     "src": "/showroom/bois-bb48fdbe9642.webp",
     "thumb": "/showroom/thumbs/bois-bb48fdbe9642.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Planches de chêne brutes",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Chêne"
   },
   {
     "src": "/showroom/bois-f4104f1dd139.webp",
     "thumb": "/showroom/thumbs/bois-f4104f1dd139.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateau brut aux bords naturels",
+    "title": "Plateau de bouleau frais de sciage",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Bouleau"
   },
   {
     "src": "/showroom/bois-92fa18342d5c.webp",
     "thumb": "/showroom/thumbs/bois-92fa18342d5c.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateau brut après sciage",
+    "title": "Plateau de bouleau frais de sciage",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Bouleau"
   },
   {
     "src": "/showroom/bois-abc7a3175ec4.webp",
     "thumb": "/showroom/thumbs/bois-abc7a3175ec4.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Plateaux et planches de chêne bruts",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Chêne"
   },
   {
     "src": "/showroom/bois-33becbcecbd5.webp",
     "thumb": "/showroom/thumbs/bois-33becbcecbd5.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Planche de chêne brute",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Chêne"
   },
   {
     "src": "/showroom/bois-c6a58271213f.webp",
     "thumb": "/showroom/thumbs/bois-c6a58271213f.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Plateau de bouleau brut",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Bouleau"
   },
   {
     "src": "/showroom/bois-3539683daf03.webp",
     "thumb": "/showroom/thumbs/bois-3539683daf03.webp",
     "width": 1200,
     "height": 900,
-    "title": "Plateaux et planches brutes",
+    "title": "Planche de chêne d’Amérique",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Chêne d’Amérique"
   },
   {
-    "src": "/showroom/bois-6fac10c4cb61.webp",
-    "thumb": "/showroom/thumbs/bois-6fac10c4cb61.webp",
+    "src": "/showroom/bois-6fac10c4cb61-retouche.webp",
+    "thumb": "/showroom/thumbs/bois-6fac10c4cb61-retouche.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Plateau de chêne d’Amérique brut",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Chêne d’Amérique"
   },
   {
     "src": "/showroom/bois-32edf1532dbc.webp",
     "thumb": "/showroom/thumbs/bois-32edf1532dbc.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Planches de pin présentant un bleuissement",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Pin"
   },
   {
     "src": "/showroom/bois-8a2a8b0efc86.webp",
     "thumb": "/showroom/thumbs/bois-8a2a8b0efc86.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Poutres de chêne pluricentenaire de récupération",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Chêne"
   },
   {
     "src": "/showroom/bois-5cc1c70786ac.webp",
     "thumb": "/showroom/thumbs/bois-5cc1c70786ac.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Plateau de chêne",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Chêne"
   },
   {
     "src": "/showroom/bois-a898ca7ae0e8.webp",
     "thumb": "/showroom/thumbs/bois-a898ca7ae0e8.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Plateaux de bouleau frais de sciage",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Bouleau"
   },
   {
     "src": "/showroom/bois-699337c1872d.webp",
     "thumb": "/showroom/thumbs/bois-699337c1872d.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Plateau de bouleau frais de sciage",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Bouleau"
   },
   {
     "src": "/showroom/bois-280cb62c554e.webp",
     "thumb": "/showroom/thumbs/bois-280cb62c554e.webp",
     "width": 900,
     "height": 1200,
-    "title": "Section de bois — détail",
+    "title": "Jolie section de bouleau",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Bouleau"
   },
   {
     "src": "/showroom/bois-6e643d2aa7e2.webp",
     "thumb": "/showroom/thumbs/bois-6e643d2aa7e2.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux et planches brutes",
+    "title": "Lamellé-collé de châtaignier en cours de fabrication",
     "categories": [
-      "planches"
-    ]
+      "en-cours"
+    ],
+    "wood": "Châtaignier",
+    "construction": "Lamellé-collé"
   },
   {
-    "src": "/showroom/bois-f4d8f68dee53.webp",
-    "thumb": "/showroom/thumbs/bois-f4d8f68dee53.webp",
-    "width": 128,
-    "height": 176,
-    "title": "Plateaux et planches brutes",
+    "src": "/showroom/bois-f4d8f68dee53-retouche.webp",
+    "thumb": "/showroom/thumbs/bois-f4d8f68dee53-retouche.webp",
+    "width": 960,
+    "height": 1320,
+    "title": "Planches d’acacia brutes",
     "categories": [
       "planches"
-    ]
+    ],
+    "wood": "Acacia"
   },
   {
     "src": "/showroom/bois-d47d4ca985d6.webp",
