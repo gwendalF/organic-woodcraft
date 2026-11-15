@@ -1985,7 +1985,9 @@
     "title": "Réduction de la hauteur d’une grosse section de chêne pour passage à la scierie",
     "categories": [
       "exterieur"
-    ]
+    ],
+    "projectId": "chene-grosse-section",
+    "projectTitle": "Grosse section de chêne — préparation avant sciage"
   },
   {
     "src": "/showroom/bois-58085c003a93.webp",
@@ -2092,10 +2094,12 @@
     "thumb": "/showroom/thumbs/bois-f3e5ff3c7e4f.webp",
     "width": 1200,
     "height": 900,
-    "title": "Grumes avant sciage",
+    "title": "Grumes de bouleau descendues de la forêt à la main",
     "categories": [
       "exterieur"
-    ]
+    ],
+    "projectId": "bouleau-foret",
+    "projectTitle": "Récupération de bouleau en forêt"
   },
   {
     "src": "/showroom/bois-5b6fbb1a7d39.webp",
@@ -2135,7 +2139,9 @@
     "title": "Travaux de manutention",
     "categories": [
       "exterieur"
-    ]
+    ],
+    "projectId": "chene-grosse-section",
+    "projectTitle": "Grosse section de chêne — préparation avant sciage"
   },
   {
     "src": "/showroom/bois-27ae5c703ec5.webp",
@@ -2152,7 +2158,7 @@
     "thumb": "/showroom/thumbs/bois-33960b93ab8d.webp",
     "width": 1200,
     "height": 900,
-    "title": "Grumes après abattage",
+    "title": "Débit du chêne",
     "categories": [
       "exterieur"
     ]
@@ -2162,70 +2168,82 @@
     "thumb": "/showroom/thumbs/bois-3548c05e5eb8.webp",
     "width": 1200,
     "height": 900,
-    "title": "Manutention en extérieur",
+    "title": "Extraction du chêne depuis la rivière",
     "categories": [
       "exterieur"
     ]
   },
   {
-    "src": "/showroom/bois-b17ced63c714.webp",
-    "thumb": "/showroom/thumbs/bois-b17ced63c714.webp",
+    "src": "/showroom/bois-b17ced63c714-prive.webp",
+    "thumb": "/showroom/thumbs/bois-b17ced63c714-prive.webp",
     "width": 1200,
     "height": 900,
-    "title": "Grumes à transformer",
+    "title": "Dépôt de grumes de chêne",
     "categories": [
       "exterieur"
-    ]
+    ],
+    "projectId": "chene-depot-tracteur",
+    "projectTitle": "Grumes de chêne — préparation du terrain et dépôt"
   },
   {
     "src": "/showroom/bois-b987dc787573.webp",
     "thumb": "/showroom/thumbs/bois-b987dc787573.webp",
     "width": 900,
     "height": 1200,
-    "title": "Lucien en extérieur",
+    "title": "Récupération de bouleau en forêt",
     "categories": [
       "exterieur"
-    ]
+    ],
+    "projectId": "bouleau-foret",
+    "projectTitle": "Récupération de bouleau en forêt"
   },
   {
     "src": "/showroom/bois-be0b58104cb8.webp",
     "thumb": "/showroom/thumbs/bois-be0b58104cb8.webp",
     "width": 1200,
     "height": 900,
-    "title": "En forêt avec Lucien",
+    "title": "Mise au propre de la végétation avant enlèvement des grumes de chêne",
     "categories": [
       "exterieur"
-    ]
+    ],
+    "projectId": "chene-depot-tracteur",
+    "projectTitle": "Grumes de chêne — préparation du terrain et dépôt"
   },
   {
     "src": "/showroom/bois-9063e4c44bd8.webp",
     "thumb": "/showroom/thumbs/bois-9063e4c44bd8.webp",
     "width": 900,
     "height": 1200,
-    "title": "Débit d’une grume",
+    "title": "Grosse section de chêne avant passage en scierie",
     "categories": [
       "exterieur"
-    ]
+    ],
+    "projectId": "chene-grosse-section",
+    "projectTitle": "Grosse section de chêne — préparation avant sciage"
   },
   {
     "src": "/showroom/bois-1f7333cdff34.webp",
     "thumb": "/showroom/thumbs/bois-1f7333cdff34.webp",
     "width": 1200,
     "height": 900,
-    "title": "Préparation des grumes",
+    "title": "Mise au propre de troncs de douglas avant passage en scierie",
     "categories": [
       "exterieur"
-    ]
+    ],
+    "projectId": "douglas-preparation",
+    "projectTitle": "Mise au propre des troncs de douglas avant sciage"
   },
   {
     "src": "/showroom/bois-a1016454605e.webp",
     "thumb": "/showroom/thumbs/bois-a1016454605e.webp",
     "width": 1200,
     "height": 900,
-    "title": "Manutention du bois",
+    "title": "Mise au propre de troncs de douglas avant passage en scierie",
     "categories": [
       "exterieur"
-    ]
+    ],
+    "projectId": "douglas-preparation",
+    "projectTitle": "Mise au propre des troncs de douglas avant sciage"
   },
   {
     "src": "/showroom/bois-6d2164b55cee.webp",

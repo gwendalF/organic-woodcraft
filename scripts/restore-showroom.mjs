@@ -8,7 +8,7 @@ let count=0;
 for(const pack of packs){
  const packed=readFileSync(resolve('assets/showroom',pack.file));
  if(hash(packed)!==pack.sha256)throw Error('Invalid image pack');
- for(const item of JSON.parse(gunzipSync(packed))){
+ for(const item of JSON.parse(pack.file.endsWith('.gz') ? gunzipSync(packed) : packed.toString('utf8'))){
   const dest=resolve(base,item.path),bytes=Buffer.from(item.data,'base64');
   if(!dest.startsWith(base+sep)||hash(bytes)!==item.sha256)throw Error('Invalid image');
   mkdirSync(dirname(dest),{recursive:true});writeFileSync(dest,bytes);count++;
