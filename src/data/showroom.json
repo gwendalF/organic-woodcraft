@@ -452,7 +452,8 @@
       "sur-mesure"
     ],
     "wood": "Châtaignier",
-    "finish": "Huile de pépins de raisin"
+    "finish": "Huile de pépins de raisin",
+    "projectId": "repose-plante-chataignier-001"
   },
   {
     "src": "/showroom/bois-4f0ca695de6b.webp",
@@ -1023,110 +1024,141 @@
     "thumb": "/showroom/thumbs/bois-29efcc4f376a.webp",
     "width": 900,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Sélection d’une zone de veinage dans un plateau de merisier brut",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Merisier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-2e18e982ba5c.webp",
     "thumb": "/showroom/thumbs/bois-2e18e982ba5c.webp",
-    "width": 900,
-    "height": 1200,
-    "title": "Travail du bois en cours",
+    "width": 1086,
+    "height": 1448,
+    "title": "Fabrication de linteaux en chêne — usinage",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Chêne",
+    "projectId": "linteaux-chene-001",
+    "projectTitle": "Fabrication de linteaux en chêne",
+    "retouch": "Visage flouté"
   },
   {
     "src": "/showroom/bois-c2050c07f4ca.webp",
     "thumb": "/showroom/thumbs/bois-c2050c07f4ca.webp",
     "width": 900,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Ponçage d’un lamellé-collé de châtaignier",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "projectId": "lamelle-colle-chataignier-001",
+    "projectTitle": "Fabrication des lamellés-collés en châtaignier"
   },
   {
     "src": "/showroom/bois-5de759ec246b.webp",
     "thumb": "/showroom/thumbs/bois-5de759ec246b.webp",
     "width": 900,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Fabrication de linteaux en chêne",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Chêne",
+    "projectId": "linteaux-chene-001",
+    "projectTitle": "Fabrication de linteaux en chêne"
   },
   {
     "src": "/showroom/bois-4ddf70ffcaa4.webp",
     "thumb": "/showroom/thumbs/bois-4ddf70ffcaa4.webp",
     "width": 900,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Lamellés-collés de châtaignier en cours de fabrication",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "projectId": "lamelle-colle-chataignier-001",
+    "projectTitle": "Fabrication des lamellés-collés en châtaignier"
   },
   {
     "src": "/showroom/bois-636ff3e1f5a1.webp",
     "thumb": "/showroom/thumbs/bois-636ff3e1f5a1.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Fabrication d’un prototype de table basse en châtaignier",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Châtaignier"
   },
   {
     "src": "/showroom/bois-92942fb9d34e.webp",
     "thumb": "/showroom/thumbs/bois-92942fb9d34e.webp",
-    "width": 900,
-    "height": 1200,
-    "title": "Travail du bois en cours",
+    "width": 1086,
+    "height": 1448,
+    "title": "Fabrication du repose-plante en châtaignier",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "projectId": "repose-plante-chataignier-001",
+    "retouch": "Lumière et lisibilité améliorées"
   },
   {
     "src": "/showroom/bois-7ff040a9903a.webp",
     "thumb": "/showroom/thumbs/bois-7ff040a9903a.webp",
     "width": 675,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Plateaux de service en hêtre échauffé — fabrication en cours",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "projectId": "fabrication-plateaux-service-001",
+    "projectTitle": "Fabrication d’une série de plateaux de service",
+    "wood": "Hêtre échauffé"
   },
   {
     "src": "/showroom/bois-555fb203b393.webp",
     "thumb": "/showroom/thumbs/bois-555fb203b393.webp",
     "width": 384,
     "height": 191,
-    "title": "Travail du bois en cours",
+    "title": "Grande série de plateaux de service en cours de fabrication",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "projectId": "fabrication-plateaux-service-001",
+    "projectTitle": "Fabrication d’une série de plateaux de service"
   },
   {
     "src": "/showroom/bois-b4cfea2a3243.webp",
     "thumb": "/showroom/thumbs/bois-b4cfea2a3243.webp",
     "width": 1200,
     "height": 597,
-    "title": "Travail du bois en cours",
+    "title": "Tri des lames pour la fabrication des plateaux de service",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "projectId": "fabrication-plateaux-service-001",
+    "projectTitle": "Fabrication d’une série de plateaux de service"
   },
   {
     "src": "/showroom/bois-c57076b01599.webp",
     "thumb": "/showroom/thumbs/bois-c57076b01599.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Prototype de table à manger — plateau en acajou africain et pieds en chêne",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Acajou africain et chêne",
+    "materials": {
+      "top": "Acajou africain",
+      "legs": "Chêne"
+    }
   },
   {
     "src": "/showroom/bois-e2891f05a31c.webp",

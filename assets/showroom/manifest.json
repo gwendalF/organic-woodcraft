@@ -154,5 +154,13 @@
   {
     "file": "photos-038.json.gz",
     "sha256": "2f04a9f38c3a93a96b70e91a8397192739c71e859bf803c1f9e12d95aaf6cc3d"
+  },
+  {
+    "file": "retouche-linteau-visage-floute.json.gz",
+    "sha256": "ebfddd668a9d1783b59c20ad1dee70ca576ae9288229f4bb234f300c83e9ecee"
+  },
+  {
+    "file": "retouche-repose-plante.json.gz",
+    "sha256": "d333d9738f38387a833eaf8c21382c840c7e02c1f3ff229d15e09f7fa152673f"
   }
 ]
