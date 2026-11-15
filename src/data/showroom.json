@@ -604,64 +604,79 @@
     "thumb": "/showroom/thumbs/bois-df518be7d9f9.webp",
     "width": 900,
     "height": 1200,
-    "title": "Sélection de planches",
+    "title": "Créations exposées à la boutique Au fil des créations, à La Gacilly",
     "categories": [
       "terminees"
-    ]
+    ],
+    "exhibition": {
+      "shop": "Au fil des créations",
+      "town": "La Gacilly"
+    }
   },
   {
     "src": "/showroom/bois-99214d592d84.webp",
     "thumb": "/showroom/thumbs/bois-99214d592d84.webp",
     "width": 1200,
     "height": 800,
-    "title": "Planches en bois massif",
+    "title": "Plateau de service en châtaignier brut",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-03dc3ccf47dd.webp",
     "thumb": "/showroom/thumbs/bois-03dc3ccf47dd.webp",
     "width": 1200,
     "height": 900,
-    "title": "Présentoir de l’atelier",
+    "title": "Créations exposées à la boutique Au fil des créations, à La Gacilly",
     "categories": [
       "terminees"
-    ]
+    ],
+    "exhibition": {
+      "shop": "Au fil des créations",
+      "town": "La Gacilly"
+    }
   },
   {
     "src": "/showroom/bois-07449c34221d.webp",
     "thumb": "/showroom/thumbs/bois-07449c34221d.webp",
     "width": 1200,
     "height": 800,
-    "title": "Planches — vue rapprochée",
+    "title": "Planche à saucisson en hêtre",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Hêtre"
   },
   {
     "src": "/showroom/bois-8832bfcefc21.webp",
     "thumb": "/showroom/thumbs/bois-8832bfcefc21.webp",
     "width": 1200,
     "height": 800,
-    "title": "Planche aux bords naturels",
+    "title": "Plateau de service en peuplier brut",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Peuplier",
+    "finish": "Brut"
   },
   {
     "src": "/showroom/bois-76304710329f.webp",
     "thumb": "/showroom/thumbs/bois-76304710329f.webp",
     "width": 1200,
     "height": 800,
-    "title": "Planche de service",
+    "title": "Plateau de service en bouleau — huile de pépins de raisin",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Bouleau",
+    "finish": "Huile de pépins de raisin"
   },
   {
     "src": "/showroom/bois-35274458f0fc.webp",
