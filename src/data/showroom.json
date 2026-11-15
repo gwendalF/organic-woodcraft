@@ -683,64 +683,74 @@
     "thumb": "/showroom/thumbs/bois-35274458f0fc.webp",
     "width": 900,
     "height": 1200,
-    "title": "Planche en bois massif",
+    "title": "Planche à découper en châtaignier",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Châtaignier"
   },
   {
     "src": "/showroom/bois-b571300b4d67.webp",
     "thumb": "/showroom/thumbs/bois-b571300b4d67.webp",
     "width": 1200,
     "height": 800,
-    "title": "Table basse — vue du plateau",
+    "title": "Table basse en châtaignier",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier"
   },
   {
     "src": "/showroom/bois-815e2532bb49.webp",
     "thumb": "/showroom/thumbs/bois-815e2532bb49.webp",
     "width": 1200,
     "height": 800,
-    "title": "Planche — détail du veinage",
+    "title": "Plateau de service en châtaignier",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Châtaignier"
   },
   {
     "src": "/showroom/bois-456ee754ae11.webp",
     "thumb": "/showroom/thumbs/bois-456ee754ae11.webp",
     "width": 900,
     "height": 1200,
-    "title": "Présentoir de créations",
+    "title": "Créations exposées à la boutique Au fil des créations, à La Gacilly",
     "categories": [
       "terminees"
-    ]
+    ],
+    "exhibition": {
+      "shop": "Au fil des créations",
+      "town": "La Gacilly"
+    }
   },
   {
     "src": "/showroom/bois-22f03ffe41c3.webp",
     "thumb": "/showroom/thumbs/bois-22f03ffe41c3.webp",
     "width": 900,
     "height": 1200,
-    "title": "Présentoir — tables et planches",
+    "title": "Plateau de lit en châtaignier",
     "categories": [
-      "terminees"
-    ]
+      "terminees",
+      "sur-mesure"
+    ],
+    "wood": "Châtaignier"
   },
   {
     "src": "/showroom/bois-1597c677d457.webp",
     "thumb": "/showroom/thumbs/bois-1597c677d457.webp",
     "width": 900,
     "height": 1200,
-    "title": "Planches à poignée",
+    "title": "Planches à saucisson en hêtre",
     "categories": [
       "terminees",
       "planches"
-    ]
+    ],
+    "wood": "Hêtre"
   },
   {
     "src": "/showroom/bois-586ba381956c.webp",
