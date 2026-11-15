@@ -1043,7 +1043,7 @@
     ],
     "wood": "Chêne",
     "projectId": "linteaux-chene-001",
-    "projectTitle": "Fabrication de linteaux en chêne",
+    "projectTitle": "Fabrication des linteaux en chêne",
     "retouch": "Visage flouté"
   },
   {
@@ -1064,13 +1064,13 @@
     "thumb": "/showroom/thumbs/bois-5de759ec246b.webp",
     "width": 900,
     "height": 1200,
-    "title": "Fabrication de linteaux en chêne",
+    "title": "Linteau en chêne — après usinage",
     "categories": [
-      "en-cours"
+      "terminees"
     ],
     "wood": "Chêne",
     "projectId": "linteaux-chene-001",
-    "projectTitle": "Fabrication de linteaux en chêne"
+    "projectTitle": "Linteau en chêne — après usinage"
   },
   {
     "src": "/showroom/bois-4ddf70ffcaa4.webp",
@@ -1355,7 +1355,9 @@
       "en-cours"
     ],
     "wood": "Bouleau",
-    "finish": "Vernis"
+    "finish": "Vernis",
+    "projectId": "plafonnier-led-bouleau-001",
+    "projectTitle": "Plafonnier LED en bouleau — préparation"
   },
   {
     "src": "/showroom/bois-d34b4a59cf37.webp",
@@ -1382,90 +1384,114 @@
     "thumb": "/showroom/thumbs/bois-975a3627ebd0.webp",
     "width": 1200,
     "height": 900,
-    "title": "Contrôle du bois",
+    "title": "Ajout de noyer noir sur une bague qui avait perdu sa pierre",
     "categories": [
-      "atelier"
-    ]
+      "terminees"
+    ],
+    "wood": "Noyer noir",
+    "projectId": "bague-noyer-noir-001",
+    "projectTitle": "Ajout de noyer noir sur une bague qui avait perdu sa pierre"
   },
   {
     "src": "/showroom/bois-1cc13ca10e90.webp",
     "thumb": "/showroom/thumbs/bois-1cc13ca10e90.webp",
     "width": 900,
     "height": 1200,
-    "title": "Scierie Wood-Mizer à l’atelier",
+    "title": "Sciage d’une grume de chêne",
     "categories": [
       "atelier"
-    ]
+    ],
+    "wood": "Chêne"
   },
   {
     "src": "/showroom/bois-98c2a6143f51.webp",
     "thumb": "/showroom/thumbs/bois-98c2a6143f51.webp",
     "width": 1200,
     "height": 900,
-    "title": "L’atelier en soirée",
+    "title": "Mise en place du plafonnier LED de l’atelier sur des lames de bouleau poncées et vernies",
     "categories": [
-      "atelier"
-    ]
+      "atelier",
+      "terminees"
+    ],
+    "wood": "Bouleau",
+    "projectId": "plafonnier-led-bouleau-001",
+    "projectTitle": "Plafonnier LED en bouleau — installé"
   },
   {
     "src": "/showroom/bois-8106a37afd3d.webp",
     "thumb": "/showroom/thumbs/bois-8106a37afd3d.webp",
     "width": 900,
     "height": 1200,
-    "title": "À l’atelier",
+    "title": "Mise en place d’une grume de chêne sur la scierie",
     "categories": [
       "atelier"
-    ]
+    ],
+    "wood": "Chêne"
   },
   {
     "src": "/showroom/bois-f64279489383.webp",
     "thumb": "/showroom/thumbs/bois-f64279489383.webp",
     "width": 900,
     "height": 1200,
-    "title": "À l’atelier",
+    "title": "Réglage d’une grume de chêne en cours de sciage",
     "categories": [
       "atelier"
-    ]
+    ],
+    "wood": "Chêne"
   },
   {
     "src": "/showroom/bois-78310ae016da.webp",
     "thumb": "/showroom/thumbs/bois-78310ae016da.webp",
     "width": 900,
     "height": 1200,
-    "title": "Assemblage sous presse",
+    "title": "Collage lamellé-collé de châtaignier",
     "categories": [
-      "atelier"
-    ]
+      "atelier",
+      "en-cours"
+    ],
+    "wood": "Châtaignier",
+    "projectId": "lamelle-colle-chataignier-001",
+    "projectTitle": "Fabrication des lamellés-collés en châtaignier",
+    "construction": "Lamellé-collé"
   },
   {
     "src": "/showroom/bois-228b89df0d45.webp",
     "thumb": "/showroom/thumbs/bois-228b89df0d45.webp",
     "width": 900,
     "height": 1200,
-    "title": "Sciage d’un plateau",
+    "title": "Marquage avant découpe du linteau",
     "categories": [
-      "atelier"
-    ]
+      "atelier",
+      "en-cours"
+    ],
+    "wood": "Chêne",
+    "projectId": "linteaux-chene-001",
+    "projectTitle": "Fabrication des linteaux en chêne"
   },
   {
     "src": "/showroom/bois-0168da536010.webp",
     "thumb": "/showroom/thumbs/bois-0168da536010.webp",
     "width": 900,
     "height": 1200,
-    "title": "À la scierie",
+    "title": "Planche de pin maritime pendant le sciage",
     "categories": [
       "atelier"
-    ]
+    ],
+    "wood": "Pin maritime"
   },
   {
     "src": "/showroom/bois-07631e87eaf9.webp",
     "thumb": "/showroom/thumbs/bois-07631e87eaf9.webp",
     "width": 900,
     "height": 1200,
-    "title": "Le bois en cours de sciage",
+    "title": "Sciage d’une grume de chêne pour la fabrication d’un linteau",
     "categories": [
-      "atelier"
-    ]
+      "atelier",
+      "en-cours"
+    ],
+    "wood": "Chêne",
+    "projectId": "linteaux-chene-001",
+    "projectTitle": "Fabrication des linteaux en chêne"
   },
   {
     "src": "/showroom/bois-78f4efec3f4e.webp",
