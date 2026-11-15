@@ -1247,90 +1247,115 @@
     "thumb": "/showroom/thumbs/bois-4cc1a6033ea7.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Ponçage d’une étagère en chêne de pays",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Chêne de pays"
   },
   {
     "src": "/showroom/bois-d5461dc769cc.webp",
     "thumb": "/showroom/thumbs/bois-d5461dc769cc.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Fabrication de lamellé-collé en châtaignier",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "construction": "Lamellé-collé",
+    "projectId": "preparation-fabrication-lamelles-colles-001",
+    "projectTitle": "Préparation et fabrication des lamellés-collés"
   },
   {
     "src": "/showroom/bois-f2cd430c2e1b.webp",
     "thumb": "/showroom/thumbs/bois-f2cd430c2e1b.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Bois après dégauchissage",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "projectId": "preparation-fabrication-lamelles-colles-001",
+    "projectTitle": "Préparation et fabrication des lamellés-collés"
   },
   {
     "src": "/showroom/bois-97bfab9a9e58.webp",
     "thumb": "/showroom/thumbs/bois-97bfab9a9e58.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Sélection du bois pour lamellé-collé — châtaignier et merisier",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Châtaignier et merisier",
+    "projectId": "preparation-fabrication-lamelles-colles-001",
+    "projectTitle": "Préparation et fabrication des lamellés-collés"
   },
   {
     "src": "/showroom/bois-7bdc6f2a6b22.webp",
     "thumb": "/showroom/thumbs/bois-7bdc6f2a6b22.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Fabrication de lamellé-collé en hêtre pour plateaux de service",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "construction": "Lamellé-collé",
+    "wood": "Hêtre",
+    "projectId": "fabrication-plateaux-service-001",
+    "projectTitle": "Fabrication d’une série de plateaux de service"
   },
   {
     "src": "/showroom/bois-20cb1e40f04e.webp",
     "thumb": "/showroom/thumbs/bois-20cb1e40f04e.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Débit du hêtre avant fabrication des plateaux de service",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Hêtre",
+    "projectId": "fabrication-plateaux-service-001",
+    "projectTitle": "Fabrication d’une série de plateaux de service"
   },
   {
     "src": "/showroom/bois-f340222e8948.webp",
     "thumb": "/showroom/thumbs/bois-f340222e8948.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Lames de réemploi en hêtre pour plateaux de service",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Hêtre",
+    "projectId": "fabrication-plateaux-service-001",
+    "projectTitle": "Fabrication d’une série de plateaux de service"
   },
   {
     "src": "/showroom/bois-2d9fe58866c2.webp",
     "thumb": "/showroom/thumbs/bois-2d9fe58866c2.webp",
     "width": 1200,
     "height": 900,
-    "title": "Travail du bois en cours",
+    "title": "Stock de lames de hêtre pour de futurs plateaux de service",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Hêtre",
+    "projectId": "fabrication-plateaux-service-001",
+    "projectTitle": "Fabrication d’une série de plateaux de service"
   },
   {
     "src": "/showroom/bois-44c86f6d6e5e.webp",
     "thumb": "/showroom/thumbs/bois-44c86f6d6e5e.webp",
     "width": 900,
     "height": 1200,
-    "title": "Travail du bois en cours",
+    "title": "Lames de bouleau poncées et vernies pour le plafonnier LED de l’atelier",
     "categories": [
       "en-cours"
-    ]
+    ],
+    "wood": "Bouleau",
+    "finish": "Vernis"
   },
   {
     "src": "/showroom/bois-d34b4a59cf37.webp",
