@@ -19,8 +19,7 @@
     "height": 800,
     "title": "Planche à découper en châtaignier brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Châtaignier",
     "finish": "Brut"
@@ -119,8 +118,7 @@
     "height": 900,
     "title": "Billot de découpe en merisier brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Merisier",
     "finish": "Brut",
@@ -147,8 +145,7 @@
     "height": 1200,
     "title": "Planche à palets en peuplier, traverses en pin — brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Peuplier et pin",
     "finish": "Brut"
@@ -160,8 +157,7 @@
     "height": 900,
     "title": "Planche à palets en peuplier, traverses en pin — brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Peuplier et pin",
     "finish": "Brut"
@@ -173,8 +169,7 @@
     "height": 900,
     "title": "Billot de découpe en merisier brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "projectId": "billot-merisier-001",
     "wood": "Merisier",
@@ -243,8 +238,7 @@
     "height": 1200,
     "title": "Plateau de service en hêtre échauffé brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Hêtre échauffé",
     "finish": "Brut, sans finition"
@@ -270,8 +264,7 @@
     "height": 1200,
     "title": "Planche à découper en châtaignier",
     "categories": [
-      "en-cours",
-      "planches"
+      "terminees"
     ],
     "wood": "Châtaignier"
   },
@@ -282,8 +275,7 @@
     "height": 1200,
     "title": "Planche à découper en hêtre brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Hêtre",
     "finish": "Brut"
@@ -309,8 +301,7 @@
     "height": 1200,
     "title": "Planche à palets bretons en peuplier",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Peuplier"
   },
@@ -476,8 +467,7 @@
     "height": 596,
     "title": "Planches à découper — diverses essences",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Diverses essences"
   },
@@ -502,8 +492,7 @@
     "height": 1200,
     "title": "Planche à saucisson en bouleau échauffé",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Bouleau échauffé"
   },
@@ -528,8 +517,7 @@
     "height": 1200,
     "title": "Planche à saucisson en bouleau",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Bouleau"
   },
@@ -557,8 +545,7 @@
     "height": 800,
     "title": "Planches à saucisson en hêtre — huile de pépins de raisin",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Hêtre",
     "finish": "Huile de pépins de raisin"
@@ -570,8 +557,7 @@
     "height": 1200,
     "title": "Planche à saucisson en hêtre",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Hêtre"
   },
@@ -596,8 +582,7 @@
     "height": 1200,
     "title": "Planches à saucisson",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ]
   },
   {
@@ -621,8 +606,7 @@
     "height": 800,
     "title": "Plateau de service en châtaignier brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Châtaignier",
     "finish": "Brut"
@@ -648,8 +632,7 @@
     "height": 800,
     "title": "Planche à saucisson en hêtre",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Hêtre"
   },
@@ -660,8 +643,7 @@
     "height": 800,
     "title": "Plateau de service en peuplier brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Peuplier",
     "finish": "Brut"
@@ -673,8 +655,7 @@
     "height": 800,
     "title": "Plateau de service en bouleau — huile de pépins de raisin",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Bouleau",
     "finish": "Huile de pépins de raisin"
@@ -686,8 +667,7 @@
     "height": 1200,
     "title": "Planche à découper en châtaignier",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Châtaignier"
   },
@@ -710,8 +690,7 @@
     "height": 800,
     "title": "Plateau de service en châtaignier",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Châtaignier"
   },
@@ -748,8 +727,7 @@
     "height": 1200,
     "title": "Planches à saucisson en hêtre",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Hêtre"
   },
@@ -799,8 +777,7 @@
     "height": 900,
     "title": "Planches à palets en peuplier brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Peuplier",
     "finish": "Brut"
@@ -812,8 +789,7 @@
     "height": 1200,
     "title": "Planche à découper en hêtre échauffé brut",
     "categories": [
-      "terminees",
-      "planches"
+      "terminees"
     ],
     "wood": "Hêtre échauffé",
     "finish": "Brut"
