@@ -1498,10 +1498,11 @@
     "thumb": "/showroom/thumbs/bois-78f4efec3f4e.webp",
     "width": 900,
     "height": 1200,
-    "title": "À l’atelier",
+    "title": "Planche de pin maritime — sciage en cours",
     "categories": [
       "atelier"
-    ]
+    ],
+    "wood": "Pin maritime"
   },
   {
     "src": "/showroom/bois-a119fa252be5.webp",
@@ -1518,39 +1519,62 @@
     "thumb": "/showroom/thumbs/bois-2619ea9a7733.webp",
     "width": 900,
     "height": 1200,
-    "title": "À l’atelier",
+    "title": "La scierie",
     "categories": [
       "atelier"
     ]
   },
   {
-    "src": "/showroom/bois-8b11b14611d6.webp",
-    "thumb": "/showroom/thumbs/bois-8b11b14611d6.webp",
+    "src": "/showroom/bois-8b11b14611d6-sans-poids.webp",
+    "thumb": "/showroom/thumbs/bois-8b11b14611d6-sans-poids.webp",
     "width": 1200,
     "height": 597,
-    "title": "Collage sous presse",
+    "title": "Collage du grand plateau de table en châtaignier lamellé-collé",
     "categories": [
-      "atelier"
-    ]
+      "atelier",
+      "en-cours"
+    ],
+    "construction": "Lamellé-collé",
+    "wood": "Châtaignier",
+    "projectId": "table-manger-chataignier-001",
+    "projectTitle": "Fabrication du grand plateau de table en châtaignier"
   },
   {
     "src": "/showroom/bois-b1cf9dfc12ba.webp",
     "thumb": "/showroom/thumbs/bois-b1cf9dfc12ba.webp",
     "width": 1200,
     "height": 597,
-    "title": "Assemblage des panneaux",
+    "title": "Assemblage du plateau de table basse en acajou africain lamellé-collé",
     "categories": [
-      "atelier"
-    ]
+      "atelier",
+      "en-cours"
+    ],
+    "construction": "Lamellé-collé",
+    "wood": "Acajou africain",
+    "projectId": "table-basse-acajou-africain-001",
+    "projectTitle": "Fabrication du plateau de table basse en acajou africain"
   },
   {
-    "src": "/showroom/bois-a94a46b17c8b.webp",
-    "thumb": "/showroom/thumbs/bois-a94a46b17c8b.webp",
+    "src": "/showroom/bois-a94a46b17c8b-sans-poids.webp",
+    "thumb": "/showroom/thumbs/bois-a94a46b17c8b-sans-poids.webp",
     "width": 1200,
     "height": 597,
-    "title": "Préparation des panneaux",
+    "title": "Lamellés-collés de chêne d’Amérique et de hêtre",
     "categories": [
-      "atelier"
+      "atelier",
+      "en-cours"
+    ],
+    "construction": "Lamellé-collé",
+    "wood": "Chêne d’Amérique et hêtre",
+    "pieces": [
+      {
+        "type": "Lamellé-collé",
+        "wood": "Chêne d’Amérique"
+      },
+      {
+        "type": "Lamellé-collé",
+        "wood": "Hêtre"
+      }
     ]
   },
   {
@@ -1558,29 +1582,46 @@
     "thumb": "/showroom/thumbs/bois-695a7f45dc42.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateau à la scierie",
+    "title": "Sciage de douglas",
     "categories": [
       "atelier"
-    ]
+    ],
+    "wood": "Douglas",
+    "projectId": "sciage-douglas-001",
+    "projectTitle": "Sciage de douglas — mise en place et sciage"
   },
   {
     "src": "/showroom/bois-64ad129eddec.webp",
     "thumb": "/showroom/thumbs/bois-64ad129eddec.webp",
     "width": 900,
     "height": 1200,
-    "title": "Wood-Mizer à l’atelier",
+    "title": "Mise en place d’une grume de douglas avant sciage",
     "categories": [
       "atelier"
-    ]
+    ],
+    "wood": "Douglas",
+    "projectId": "sciage-douglas-001",
+    "projectTitle": "Sciage de douglas — mise en place et sciage"
   },
   {
     "src": "/showroom/bois-c9ae4bb20d6f.webp",
     "thumb": "/showroom/thumbs/bois-c9ae4bb20d6f.webp",
     "width": 1200,
     "height": 900,
-    "title": "Stock de bois à l’atelier",
+    "title": "Plateaux de merisier et tranches de pin maritime",
     "categories": [
       "atelier"
+    ],
+    "wood": "Merisier et pin maritime",
+    "pieces": [
+      {
+        "type": "Plateaux",
+        "wood": "Merisier"
+      },
+      {
+        "type": "Tranches",
+        "wood": "Pin maritime"
+      }
     ]
   },
   {
