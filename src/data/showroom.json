@@ -833,9 +833,27 @@
     "thumb": "/showroom/thumbs/bois-37aac4ec5cf4.webp",
     "width": 900,
     "height": 1200,
-    "title": "Planches et panneaux",
+    "title": "Plateau en acajou africain, plateau de service en hêtre échauffé et chemin de table en bouleau",
     "categories": [
       "terminees"
+    ],
+    "description": "Le plateau de service en hêtre échauffé et le chemin de table en bouleau sont tous deux huilés à l’huile de pépins de raisin.",
+    "wood": "Acajou africain, hêtre échauffé et bouleau",
+    "pieces": [
+      {
+        "type": "Plateau",
+        "wood": "Acajou africain"
+      },
+      {
+        "type": "Plateau de service",
+        "wood": "Hêtre échauffé",
+        "finish": "Huile de pépins de raisin"
+      },
+      {
+        "type": "Chemin de table",
+        "wood": "Bouleau",
+        "finish": "Huile de pépins de raisin"
+      }
     ]
   },
   {
@@ -843,10 +861,27 @@
     "thumb": "/showroom/thumbs/bois-bcde84d10ddf.webp",
     "width": 1200,
     "height": 900,
-    "title": "Plateaux de l’atelier",
+    "title": "Plateaux en acajou africain et chêne d’Amérique — vitrificateur incolore mat",
     "categories": [
       "terminees",
       "sur-mesure"
+    ],
+    "description": "Acajou africain à l’arrière-plan et chêne d’Amérique au premier plan. Les deux plateaux sont finis au vitrificateur incolore mat.",
+    "wood": "Acajou africain et chêne d’Amérique",
+    "finish": "Vitrificateur incolore mat",
+    "pieces": [
+      {
+        "type": "Plateau",
+        "wood": "Acajou africain",
+        "position": "Arrière-plan",
+        "finish": "Vitrificateur incolore mat"
+      },
+      {
+        "type": "Plateau",
+        "wood": "Chêne d’Amérique",
+        "position": "Premier plan",
+        "finish": "Vitrificateur incolore mat"
+      }
     ]
   },
   {
@@ -854,20 +889,33 @@
     "thumb": "/showroom/thumbs/bois-52d6bfcea372.webp",
     "width": 900,
     "height": 1200,
-    "title": "Table — détail du veinage",
+    "title": "Plateau de table à manger en châtaignier lamellé-collé",
     "categories": [
       "terminees",
       "sur-mesure"
-    ]
+    ],
+    "wood": "Châtaignier",
+    "construction": "Lamellé-collé"
   },
   {
     "src": "/showroom/bois-029ea455bec5.webp",
     "thumb": "/showroom/thumbs/bois-029ea455bec5.webp",
     "width": 900,
     "height": 1200,
-    "title": "Sélection de plateaux",
+    "title": "Plateaux de lit en acajou et bouleau échauffé",
     "categories": [
       "terminees"
+    ],
+    "wood": "Acajou et bouleau échauffé",
+    "pieces": [
+      {
+        "type": "Plateau de lit",
+        "wood": "Acajou"
+      },
+      {
+        "type": "Plateau de lit",
+        "wood": "Bouleau échauffé"
+      }
     ]
   },
   {
@@ -875,9 +923,21 @@
     "thumb": "/showroom/thumbs/bois-cc2e574e4105.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux — teintes et veinages",
+    "title": "Billot de découpe en acajou et planche à découper en châtaignier",
     "categories": [
-      "terminees"
+      "terminees",
+      "planches"
+    ],
+    "wood": "Acajou et châtaignier",
+    "pieces": [
+      {
+        "type": "Billot de découpe",
+        "wood": "Acajou"
+      },
+      {
+        "type": "Planche à découper",
+        "wood": "Châtaignier"
+      }
     ]
   },
   {
@@ -885,9 +945,24 @@
     "thumb": "/showroom/thumbs/bois-4510a648312e.webp",
     "width": 900,
     "height": 1200,
-    "title": "Plateaux en bois massif",
+    "title": "Planches à découper en bouleau — brut et huile de pépins de raisin",
     "categories": [
-      "terminees"
+      "terminees",
+      "planches"
+    ],
+    "wood": "Bouleau",
+    "description": "Une planche en bouleau brut et une planche en bouleau huilée à l’huile de pépins de raisin.",
+    "pieces": [
+      {
+        "type": "Planche à découper",
+        "wood": "Bouleau",
+        "finish": "Brut"
+      },
+      {
+        "type": "Planche à découper",
+        "wood": "Bouleau",
+        "finish": "Huile de pépins de raisin"
+      }
     ]
   },
   {
@@ -895,10 +970,25 @@
     "thumb": "/showroom/thumbs/bois-3c9ac70e6eff.webp",
     "width": 1200,
     "height": 900,
-    "title": "Sélection de planches",
+    "title": "Planches à découper en bouleau, châtaignier et merisier",
     "categories": [
       "terminees",
       "planches"
+    ],
+    "wood": "Bouleau, châtaignier et merisier",
+    "pieces": [
+      {
+        "type": "Planche à découper",
+        "wood": "Bouleau"
+      },
+      {
+        "type": "Planche à découper",
+        "wood": "Châtaignier"
+      },
+      {
+        "type": "Planche à découper",
+        "wood": "Merisier"
+      }
     ]
   },
   {
@@ -906,10 +996,26 @@
     "thumb": "/showroom/thumbs/bois-96c3132939b2.webp",
     "width": 1200,
     "height": 900,
-    "title": "Planches — sélection de l’atelier",
+    "title": "Planches à découper — châtaignier huilé et bouleau brut",
     "categories": [
       "terminees",
       "planches"
+    ],
+    "wood": "Châtaignier et bouleau",
+    "description": "Une planche en châtaignier huilée à l’huile de pépins de raisin et deux planches en bouleau brut.",
+    "pieces": [
+      {
+        "type": "Planche à découper",
+        "wood": "Châtaignier",
+        "finish": "Huile de pépins de raisin",
+        "quantity": 1
+      },
+      {
+        "type": "Planche à découper",
+        "wood": "Bouleau",
+        "finish": "Brut",
+        "quantity": 2
+      }
     ]
   },
   {
